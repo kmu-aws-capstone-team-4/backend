@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/llm_trackers/enums/token_operation.py
+# hypothesis_version: 6.151.9
+
+['completion', 'embedding', '임베딩 생성']

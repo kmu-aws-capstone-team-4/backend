@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/database.py
+# hypothesis_version: 6.151.9
+
+[600, '5432', 'ATOMIC_REQUESTS', 'CONN_HEALTH_CHECKS', 'CONN_MAX_AGE', 'DATABASES', 'DATABASE_ENGINE', 'DATABASE_NAME', 'DEFAULT_AUTO_FIELD', 'ENGINE', 'HOST', 'NAME', 'OPTIONS', 'PASSWORD', 'PORT', 'POSTGRES_HOST', 'POSTGRES_PASSWORD', 'POSTGRES_PORT', 'POSTGRES_USER', 'TEST', 'TEST_DATABASE_NAME', 'USER', 'connect_timeout', 'default', 'options', 'psqlextra.backend']

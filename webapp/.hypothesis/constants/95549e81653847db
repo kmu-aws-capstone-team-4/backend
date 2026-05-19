@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/rest_framework.py
+# hypothesis_version: 6.151.9
+
+['1.0.0', 'CAMELIZE_NAMES', 'CONTACT', 'DEFAULT_SCHEMA_CLASS', 'DESCRIPTION', 'EXCEPTION_HANDLER', 'JSON_UNDERSCOREIZE', 'POSTPROCESSING_HOOKS', 'REST_FRAMEWORK', 'SERVE_INCLUDE_SCHEMA', 'SPECTACULAR_SETTINGS', 'TITLE', 'VERSION', 'email', 'name', 'shinkeonkim']

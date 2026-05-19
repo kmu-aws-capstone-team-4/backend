@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/apps.py
+# hypothesis_version: 6.151.9
+
+['-action_time', 'action_flag', 'action_time', 'change_message', 'common', 'content_type', 'content_type__id', 'content_type__model', 'id', 'object_repr', 'user_id']

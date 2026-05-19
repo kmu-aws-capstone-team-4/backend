@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/tasks/evaluate_achievements_task.py
+# hypothesis_version: 6.151.9
+
+['coalesced', 'evaluation_result', 'event', 'failure_reason', 'trigger_key', 'user_id']

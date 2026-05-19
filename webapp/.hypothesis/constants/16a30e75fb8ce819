@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/job_descriptions/consumers.py
+# hypothesis_version: 6.151.9
+
+[1.5, 'collection_status', 'date-time', 'done', 'enum', 'error', 'format', 'in_progress', 'job_description', 'job_descriptions', 'kwargs', 'message', 'name', 'object', 'pending', 'properties', 'schema', 'status', 'string', 'type', 'updated_at', 'url_route', '접근 권한이 없습니다.', '채용공고 스크래핑 상태 SSE', '채용공고를 찾을 수 없습니다.']

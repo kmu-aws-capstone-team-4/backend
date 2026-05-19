@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/celery_sqs.py
+# hypothesis_version: 6.151.9
+
+['CELERY_SQS', 'django.conf:settings', 'interviews.tasks', 'me_fit_sqs']

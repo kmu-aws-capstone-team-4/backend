@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/services/user_masking_service.py
+# hypothesis_version: 6.151.9
+
+['email', 'email_confirmed_at', 'name', 'password', 'profile_completed_at', 'updated_at', 'user은(는) 필수입니다.']

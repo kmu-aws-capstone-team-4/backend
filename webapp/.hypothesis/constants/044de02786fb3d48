@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/celery.py
+# hypothesis_version: 6.151.9
+
+['6379', 'CELERY_BROKER_URL', 'CELERY_TIMEZONE', 'REDIS_HOST', 'REDIS_PORT', 'application/json', 'django-db', 'json', 'redis']

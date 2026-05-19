@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/resume_stats_service.py
+# hypothesis_version: 6.151.9
+
+['completed', 'count', 'days', 'failed', 'file_count', 'name', 'parsed_data', 'pending', 'pk', 'processing', 'skills', 'text_count', 'top_skills', 'total', 'total_unique_skills']

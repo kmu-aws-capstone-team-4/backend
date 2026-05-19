@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/views/flower_proxy.py
+# hypothesis_version: 6.151.9
+
+[502, 'Content-Type', 'DELETE', 'PATCH', 'POST', 'PUT', 'QUERY_STRING', 'accept-encoding', 'connection', 'content-length', 'host', 'http', 'https', 'read', 'text/html', 'text/plain', 'transfer-encoding']

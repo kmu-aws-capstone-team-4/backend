@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/admin/job_description_admin.py
+# hypothesis_version: 6.151.9
+
+['%s: %s', '%s:%s_%s_change', '-created_at', 'collection_status', 'company', 'created_at', 'duties', 'education', 'error_message', 'experience', 'fields', 'id', 'location', 'platform', 'preferred', 'requirements', 'salary', 'scraped_at', 'title', 'updated_at', 'url', 'user', 'work_type', '공고 본문', '근무 조건', '날짜', '수집 상태']

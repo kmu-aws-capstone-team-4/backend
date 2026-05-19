@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/profiles/migrations/0003_profile_career_stage.py
+# hypothesis_version: 6.151.9
+
+['0002_profile_avatar', '1-3년', '1_3_years', '1년 미만', '3-7년', '3_7_years', '7년 이상', 'career_stage', 'graduate_student', 'lt_1_year', 'other', 'over_7_years', 'profile', 'profiles', 'university_student', '기타', '대학생', '대학원생']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/subscriptions/admin/subscription_admin.py
+# hypothesis_version: 6.151.9
+
+['-started_at', 'cancel_subscriptions', 'cancelled_at', 'created_at', 'display_status', 'expires_at', 'fields', 'is_cancelled', 'plan_type', 'started_at', 'updated_at', 'user', 'user__email', '구독 정보', '상태', '선택한 구독 취소', '이력', '취소됨']

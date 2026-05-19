@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/resumes/views/resume_text_content_template_list_view.py
+# hypothesis_version: 6.151.9
+
+[0.1, 'Job UUID', 'JobCategory 이름', 'category', 'display_order', 'job', 'job__category', 'job__category__name', 'job__name', 'search', 'title', '이력서 텍스트 템플릿 목록', '이력서 템플릿']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/resumes/urls.py
+# hypothesis_version: 6.151.9
+
+['awards/', 'awards/<str:uuid>/', 'basic-info/', 'career-meta/', 'certifications/', 'create', 'delete', 'destroy', 'educations/', 'experiences/', 'get', 'industry-domains/', 'job-category/', 'keywords/', 'languages-spoken/', 'list', 'post', 'projects/', 'projects/<str:uuid>/', 'put', 'replace', 'resume', 'resume-sections', 'resume-stats-count', 'resume-stats-type', 'skills/', 'stats/count/', 'stats/top-skills/', 'stats/type/', 'summary/', 'templates/', 'update', 'upsert']

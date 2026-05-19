@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/migrations/0002_passwordresettoken.py
+# hypothesis_version: 6.151.9
+
+['0001_initial', 'ID', 'PasswordResetToken', 'created_at', 'db_table', 'expires_at', 'id', 'indexes', 'objects', 'token', 'updated_at', 'used_at', 'user', 'users', 'verbose_name', 'verbose_name_plural', '비밀번호 재설정 토큰', '비밀번호 재설정 토큰 목록', '사용자']

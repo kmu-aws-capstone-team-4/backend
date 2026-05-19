@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/template.py
+# hypothesis_version: 6.151.9
+
+['APP_DIRS', 'BACKEND', 'DIRS', 'OPTIONS', 'TEMPLATES', 'context_processors', 'templates']

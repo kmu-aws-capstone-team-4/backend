@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/exceptions/rate_limit_exception.py
+# hypothesis_version: 6.151.9
+
+['RATE_LIMIT_EXCEEDED', '요청 횟수를 초과했습니다.']

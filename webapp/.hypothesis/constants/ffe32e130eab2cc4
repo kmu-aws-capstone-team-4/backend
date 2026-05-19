@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/migrations/0004_userjobdescription_title.py
+# hypothesis_version: 6.151.9
+
+[255, 'job_descriptions', 'title', 'userjobdescription', '내 식별 제목']

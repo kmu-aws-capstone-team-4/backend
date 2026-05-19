@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/resume_prefetch.py
+# hypothesis_version: 6.151.9
+
+['awards', 'basic_info', 'career_meta', 'certifications', 'created_at', 'display_order', 'educations', 'experiences', 'file_content', 'industry_domain', 'keyword', 'languages_spoken', 'projects', 'resume_job_category', 'resume_keywords', 'resume_skills', 'skill', 'summary', 'tech_stack', 'text_content']

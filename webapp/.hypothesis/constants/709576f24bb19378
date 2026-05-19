@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/services/create_user_job_description_service.py
+# hypothesis_version: 6.151.9
+
+['application_status', 'collection_status', 'scraping', 'title', 'url']

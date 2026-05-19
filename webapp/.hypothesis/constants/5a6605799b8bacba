@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_job_category.py
+# hypothesis_version: 6.151.9
+
+[100, 'ResumeJobCategory', 'name', '분류명', '설명', '이력서 직군 분류', '이모지']

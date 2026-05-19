@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/profiles/models/job_category.py
+# hypothesis_version: 6.151.9
+
+[100, 'Job Categories', 'Job Category', 'job_categories', 'name', '사용자에게 공개된 시간', '오픈 일시']

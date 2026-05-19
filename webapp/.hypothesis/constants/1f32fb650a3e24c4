@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/exceptions/validation_exception.py
+# hypothesis_version: 6.151.9
+
+['VALIDATION_ERROR', 'field_errors', '입력값이 올바르지 않습니다.']

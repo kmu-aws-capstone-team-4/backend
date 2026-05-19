@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/enums/exchange_type.py
+# hypothesis_version: 6.151.9
+
+['followup', 'initial', '꼬리질문', '초기 질문']

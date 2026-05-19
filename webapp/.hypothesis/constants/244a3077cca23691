@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/terms_documents/admin/terms_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', '__all__', 'content', 'created_at', 'effective_at', 'fields', 'is_published', 'is_required', 'published_at', 'terms_type', 'title', 'updated_at', 'version', '날짜', '내용', '내용 (마크다운)']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/services/seed_achievements_service.py
+# hypothesis_version: 6.151.9
+
+['3일 연속 출석', '3일 연속으로 면접에 참여하세요.', '7일 연속 출석', '7일 연속으로 면접에 참여하세요.', '>=', 'AND', 'amount', 'category', 'code', 'condition_payload', 'condition_type', 'created', 'description', 'exists', 'field_exists', 'field_path', 'first_interview', 'group', 'interview_5_times', 'logic', 'metric_key', 'metric_threshold', 'name', 'operator', 'reward_payload', 'rules', 'skipped', 'streak.current_days', 'streak_3_days', 'streak_7_days', 'target', 'ticket', 'type', '면접 5회 달성', '면접을 1회 완료하세요.', '면접을 5회 완료하세요.', '첫 면접 도전', '프로필 완성', '프로필을 처음으로 완성하세요.']

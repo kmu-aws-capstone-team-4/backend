@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/admin/interview_behavior_analysis_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'created_at', 'expression_data', 'fields', 'has_expression_data', 'has_speech_data', 'interview_recording', 'interview_session', 'interview_turn', 'pk', 'speech_data', 'status', 'updated_at', 'user', 'user__email', '날짜', '분석 데이터', '상태', '음성 데이터', '표정 데이터']

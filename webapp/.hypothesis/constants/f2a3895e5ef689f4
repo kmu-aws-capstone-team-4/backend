@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/subscriptions/enums/plan_type.py
+# hypothesis_version: 6.151.9
+
+['Pro', 'free', 'pro', '무료']

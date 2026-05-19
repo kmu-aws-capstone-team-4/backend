@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/services/condition_evaluator.py
+# hypothesis_version: 6.151.9
+
+['!=', '<', '<=', '==', '>', '>=', 'AND', 'OR', 'StreakLog', 'StreakStatistics', 'actual', 'actual_exists', 'children', 'date__gt', 'date__gte', 'date__lt', 'date__lte', 'exists', 'exists_expected', 'field_exists', 'field_path', 'filters', 'group', 'interview.logs', 'logic', 'metric_key', 'metric_threshold', 'operator', 'profile_completed_at', 'query_key', 'rules', 'streak.current_days', 'streaks', 'target', 'total', 'type']

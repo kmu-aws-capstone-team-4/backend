@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/resume_basic_info_admin.py
+# hypothesis_version: 6.151.9
+
+['-updated_at', 'created_at', 'email', 'location', 'name', 'phone', 'resume', 'resume__title', 'updated_at', 'uuid']

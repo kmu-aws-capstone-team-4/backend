@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/enums/recording_media_type.py
+# hypothesis_version: 6.151.9
+
+['audio', 'video']

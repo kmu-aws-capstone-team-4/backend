@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_text_content_template.py
+# hypothesis_version: 6.151.9
+
+[100, 'display_order', 'job__name', 'profiles.Job', 'title', '같은 직업 내에서 정렬 기준', '이력서 텍스트 템플릿', '직업', '템플릿 본문', '템플릿 제목', '표시 순서']

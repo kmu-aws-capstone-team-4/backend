@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/celery_sqs.py
+# hypothesis_version: 6.151.9
+
+[3600, 'AWS_ENDPOINT_URL', 'AWS_S3_REGION_NAME', 'application/json', 'endpoint_url', 'json', 'polling_interval', 'predefined_queues', 'region', 'sqs://', 'url', 'us-east-1', 'visibility_timeout', 'wait_time_seconds']

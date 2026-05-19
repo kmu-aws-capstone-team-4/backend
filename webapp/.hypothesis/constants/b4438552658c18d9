@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/tasks/base_scheduled_task.py
+# hypothesis_version: 6.151.9
+
+['args', 'kwargs', 'options', 'schedule', 'task']

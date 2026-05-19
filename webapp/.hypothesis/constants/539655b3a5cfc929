@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/slack/messages/nplusone_message.py
+# hypothesis_version: 6.151.9
+
+['*SQL Queries*', '*Stacktrace*', '⚠️ N+1 쿼리 감지', '경로', '메서드', '모델', '필드']

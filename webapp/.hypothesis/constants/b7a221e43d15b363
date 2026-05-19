@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/enums/session_type.py
+# hypothesis_version: 6.151.9
+
+['followup', 'full_process', '꼬리질문형 면접', '전체 프로세스 면접']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/llm/question_generator.py
+# hypothesis_version: 6.151.9
+
+['job_description', 'resume', 'unknown']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/streaks/models/streak_statistics.py
+# hypothesis_version: 6.151.9
+
+['streak_statistic', '마지막 참여 날짜', '사용자', '스트릭 통계', '스트릭 통계 목록', '역대 최장 연속 일수', '총 참여일', '현재 연속 일수']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/services/send_verification_email_service.py
+# hypothesis_version: 6.151.9
+
+['code', 'user_email', '이메일 인증 코드']

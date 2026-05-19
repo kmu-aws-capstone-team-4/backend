@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/migrations/0002_interviewturn_followup_order_and_more.py
+# hypothesis_version: 6.151.9
+
+['0001_initial', 'followup_order', 'interviews', 'interviewturn', 'turn_number', '꼬리질문 순번', '턴 번호']

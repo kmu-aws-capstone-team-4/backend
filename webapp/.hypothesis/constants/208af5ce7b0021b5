@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/terms_documents/migrations/0001_initial.py
+# hypothesis_version: 6.151.9
+
+[200, '-created_at', '-updated_at', '-version', 'AI 학습 데이터 활용 동의', 'ID', 'TermsDocument', 'UserConsent', 'abstract', 'agreed_at', 'ai_training_data', 'constraints', 'content', 'created_at', 'effective_at', 'get_latest_by', 'id', 'indexes', 'is_required', 'objects', 'ordering', 'privacy_policy', 'published_at', 'published_at__isnull', 'terms_document', 'terms_of_service', 'terms_type', 'title', 'updated_at', 'user', 'user_consents', 'verbose_name', 'verbose_name_plural', 'version', '개인정보처리방침', '공개일시', '내용 (마크다운)', '동의 일시', '버전', '사용자', '사용자 약관 동의', '사용자 약관 동의 목록', '약관', '약관 목록', '약관 유형', '이용약관', '적용일', '제목', '필수 동의 여부']

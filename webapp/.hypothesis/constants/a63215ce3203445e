@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/users/views/request_password_reset_api_view.py
+# hypothesis_version: 6.151.9
+
+[200, 'email', 'message', '비밀번호 재설정 이메일 발송', '사용자', '이메일을 확인해주세요.']

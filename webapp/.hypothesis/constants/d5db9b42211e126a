@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/enums/operation_type.py
+# hypothesis_version: 6.151.9
+
+['LLM 분석', 'analyze', 'embed', 'search', '검색 쿼리 임베딩', '임베딩']

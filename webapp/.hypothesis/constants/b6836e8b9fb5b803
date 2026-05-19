@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/achievements/urls.py
+# hypothesis_version: 6.151.9
+
+['achievement-claim', 'achievement-list', 'achievement-refresh', 'refresh/']

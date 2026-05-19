@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/terms_documents/serializers/terms_detail_serializer.py
+# hypothesis_version: 6.151.9
+
+['content', 'created_at', 'effective_at', 'id', 'is_required', 'terms_type', 'title', 'version']

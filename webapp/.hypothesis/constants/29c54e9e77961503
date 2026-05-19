@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/tasks/send_sign_up_event_task.py
+# hypothesis_version: 6.151.9
+
+['SLACK_CHANNEL_EVENT', 'email', 'name', '신규 회원가입', '이름', '이메일']

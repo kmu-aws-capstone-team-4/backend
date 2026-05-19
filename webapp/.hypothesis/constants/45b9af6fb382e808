@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/terms_documents/admin/user_consent_admin.py
+# hypothesis_version: 6.151.9
+
+['-agreed_at', 'agreed_at', 'created_at', 'terms_document', 'updated_at', 'user', 'user__email', 'user__name']

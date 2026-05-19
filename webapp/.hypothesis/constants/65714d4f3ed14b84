@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/tickets/views/ticket_view.py
+# hypothesis_version: 6.151.9
+
+[200, '티켓', '티켓 정책 조회', '티켓 현황 조회']

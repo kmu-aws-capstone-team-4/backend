@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/upsert_resume_project_service.py
+# hypothesis_version: 6.151.9
+
+['description', 'display_order', 'name', 'period', 'resume', 'role', 'tech_stack', 'uuid', '프로젝트 항목을 찾을 수 없습니다.']

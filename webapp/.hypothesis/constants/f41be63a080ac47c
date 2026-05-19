@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/industry_domain_admin.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'name', 'updated_at', 'uuid']

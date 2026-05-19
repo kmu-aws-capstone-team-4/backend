@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_embedding.py
+# hypothesis_version: 6.151.9
+
+[1536, 'Resume Embedding', 'Resume Embeddings', 'embeddings', 'resume_emb_user_idx', 'resume_embeddings', 'resume_id', 'resumes.Resume', 'user_id', '임베딩 대상 텍스트 청크 원문', '청크 순서 (0-based)']

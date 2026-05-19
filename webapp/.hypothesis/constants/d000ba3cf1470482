@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/admin/achievement_admin.py
+# hypothesis_version: 6.151.9
+
+[' | ', ',', 'achievement_ids', 'achievements', 'all', 'category', 'code', 'condition_payload', 'condition_type', 'created_at', 'description', 'ends_at', 'fields', 'form', 'id', 'is_active', 'name', 'open_reevaluate_form', 'reevaluate-form', 'reevaluate-form/', 'reset_existing', 'reward_payload', 'seed-achievements', 'specific', 'starts_at', 'target', 'updated_at', 'user_email', 'user_ids', '기본 업적 데이터 생성', '기존 달성 기록 초기화 후 재평가', '날짜', '보상 JSON (보기 전용)', '선택된 업적 달성 현황 확인', '선택된 업적 재평가 (폼)', '업적 재평가', '업적 재평가 (폼)', '유저 이메일', '재평가할 업적', '재평가할 업적을 선택해주세요.', '재평가할 업적이 선택되지 않았습니다.', '전체 활성 유저', '조건 JSON (보기 전용)', '특정 유저 (이메일 입력)', '특정 유저 선택 시 입력하세요', '평가 대상']

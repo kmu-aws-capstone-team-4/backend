@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/services/sign_out_service.py
+# hypothesis_version: 6.151.9
+
+['refresh_token', 'user_id', '유효하지 않은 토큰입니다.']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/managers/user_manager.py
+# hypothesis_version: 6.151.9
+
+['email_confirmed_at', 'is_staff', 'is_superuser', '이메일은 필수입니다.']

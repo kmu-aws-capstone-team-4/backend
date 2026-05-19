@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/resumes/serializers/resume_basic_info_response_serializer.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'email', 'location', 'name', 'phone', 'updated_at', 'uuid']

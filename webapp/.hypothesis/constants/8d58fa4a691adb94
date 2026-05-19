@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/streaks/services/streak_calculator.py
+# hypothesis_version: 6.151.9
+
+['current_streak', 'date', 'longest_streak', 'streak_logs', 'total_days', 'updated_at', 'user']

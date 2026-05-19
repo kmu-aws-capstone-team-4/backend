@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/users/views/sign_out_api_view.py
+# hypothesis_version: 6.151.9
+
+[205, 'refresh', '로그아웃', '사용자']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/llm_trackers/enums/token_usage_context.py
+# hypothesis_version: 6.151.9
+
+['interview_analysis', 'interview_followup', 'interview_question', 'other', 'resume_analyze', 'resume_embed', 'resume_search', '기타', '꼬리질문 생성', '면접 분석 리포트 생성', '면접 초기 질문 생성', '이력서 LLM 분석', '이력서 임베딩', '이력서 임베딩 검색']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/resume_experience_admin.py
+# hypothesis_version: 6.151.9
+
+['company', 'created_at', 'display_order', 'period', 'resume', 'resume__title', 'role', 'updated_at', 'uuid']

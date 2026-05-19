@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/tasks/send_slack_message_task.py
+# hypothesis_version: 6.151.9
+
+['slack_task_failed']

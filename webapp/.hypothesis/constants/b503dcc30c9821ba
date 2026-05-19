@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/user_job_descriptions/serializers/user_job_description_response_serializer.py
+# hypothesis_version: 6.151.9
+
+['application_status', 'collection_status', 'created_at', 'job_description.id', 'job_description_id', 'title', 'uuid']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_keyword.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'display_order', 'keyword', 'resume', 'resume_keywords', 'resumes.Keyword', 'resumes.Resume', '이력서 키워드 매핑']

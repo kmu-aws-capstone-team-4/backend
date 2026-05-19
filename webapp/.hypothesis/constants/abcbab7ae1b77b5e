@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/pagination/standard_pagination.py
+# hypothesis_version: 6.151.9
+
+[100, 'count', 'description', 'example', 'integer', 'nextPage', 'nullable', 'object', 'per_page', 'previousPage', 'properties', 'required', 'results', 'totalPagesCount', 'type', '다음 페이지 번호', '이전 페이지 번호', '전체 페이지 수', '전체 항목 수']

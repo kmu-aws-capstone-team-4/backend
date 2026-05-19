@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/demo/consumers.py
+# hypothesis_version: 6.151.9
+
+['/sse/demo/counter/', '/ws/demo/auth-echo/', '/ws/demo/echo/', 'Auth Counter SSE', 'Auth Echo WebSocket', 'Counter SSE', 'Echo WebSocket', 'Echo server ready', 'Stream complete', 'auth', 'connected', 'counter', 'date-time', 'demo', 'done', 'echo', 'email', 'example', 'format', 'hello', 'integer', 'message', 'name', 'object', 'payload', 'properties', 'schema', 'server_time', 'string', 'tick', 'type', 'user_email', 'user_id']

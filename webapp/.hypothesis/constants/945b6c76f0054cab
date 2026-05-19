@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/admin/interview_turn_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'answer', 'created_at', 'fields', 'has_answer', 'interview_session', 'interview_session_id', 'pk', 'question', 'question_source', 'turn_number', 'turn_type', 'updated_at', '날짜', '내용', '답변 여부']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/streaks/migrations/0001_initial.py
+# hypothesis_version: 6.151.9
+
+['-created_at', '-updated_at', 'ID', 'StreakLog', 'StreakStatistics', 'abstract', 'constraints', 'created_at', 'current_streak', 'date', 'get_latest_by', 'id', 'indexes', 'interview_order', 'is_active', 'longest_streak', 'objects', 'ordering', 'streak_logs', 'streak_statistics', 'ticket_reward', 'updated_at', 'user', 'verbose_name', 'verbose_name_plural', '마지막 참여 날짜', '사용자', '스트릭 로그', '스트릭 로그 목록', '스트릭 통계', '스트릭 통계 목록', '역대 최장 연속 일수', '인터뷰 순서 (1~5)', '일일 인터뷰 보상 정책', '일일 인터뷰 보상 정책 목록', '지급 티켓 수', '참여 날짜', '해당 날 면접 참여 횟수', '현재 연속 일수', '활성 여부']

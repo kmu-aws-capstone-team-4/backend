@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/mixins/resume_pipeline_mixin.py
+# hypothesis_version: 6.151.9
+
+['analysis-resume', 'analysis_status', 'analysis_step', 'bundle_url', 'resume_uuid', 'updated_at', 'user_id']

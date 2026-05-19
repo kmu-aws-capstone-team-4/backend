@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/streaks/admin/daily_interview_reward_policy_admin.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'interview_order', 'is_active', 'ticket_reward', 'updated_at', '기본 정책 생성']

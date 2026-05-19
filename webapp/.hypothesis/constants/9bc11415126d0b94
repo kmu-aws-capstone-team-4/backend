@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/models/interview_turn.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'followup_turns', 'interview_turns', 'self', 'turns', '꼬리질문 순번', '답변', '면접 세션', '면접 턴', '면접 턴 목록', '발화 세그먼트', '앵커 질문', '질문', '질문 출처', '턴 번호', '턴 유형']

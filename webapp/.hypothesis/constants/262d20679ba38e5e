@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/admin/interview_session_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'created_at', 'fields', 'pk', 'resume', 'total_questions', 'updated_at', 'user', 'user__email', 'user_job_description', '날짜', '인터뷰 세션 설정', '통계']

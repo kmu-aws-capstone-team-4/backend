@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/resume_file_content_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'content', 'created_at', 'fields', 'file_size_bytes', 'id', 'mime_type', 'original_filename', 'resume', 'storage_path', 'user', 'user__email', '날짜', '파일 정보']

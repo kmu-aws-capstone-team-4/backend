@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/llm_client.py
+# hypothesis_version: 6.151.9
+
+[0.7, 'OPENAI_MODEL', 'gpt-4o-mini']

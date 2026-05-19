@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/resume_summary_admin.py
+# hypothesis_version: 6.151.9
+
+['-updated_at', 'created_at', 'resume', 'resume__title', 'text', 'text_preview', 'updated_at', 'uuid', '요약']

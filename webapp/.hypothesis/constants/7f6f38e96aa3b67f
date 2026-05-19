@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/services/claim_achievement_reward_service.py
+# hypothesis_version: 6.151.9
+
+['achievement', 'achievement_code', 'amount', 'evaluation_result', 'event', 'reward_claimed_at', 'reward_payload', 'updated_at', 'user_id', '달성한 도전과제이 없습니다.', '이미 보상을 수령한 도전과제입니다.', '티켓 보상 설정이 올바르지 않습니다.']

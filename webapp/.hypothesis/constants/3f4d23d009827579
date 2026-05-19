@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/subscriptions/models/subscription_plan_ticket_policy.py
+# hypothesis_version: 6.151.9
+
+['plan_type', '구독 플랜 티켓 정책', '구독 플랜 티켓 정책 목록', '요금제', '일일 지급 티켓 수', '활성 여부']

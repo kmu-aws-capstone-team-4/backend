@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/llm_trackers/models/token_usage.py
+# hypothesis_version: 6.151.9
+
+[0.0, 100, '0', 'LLM 모델명', 'LLM 연산 종류', 'TokenUsage', 'common_token_usages', 'token_usable_id', 'token_usable_type', '관련 객체 PK', '관련 모델 타입', '비용 (USD)', '사용 컨텍스트', '입력 토큰', '전체 토큰', '출력 토큰', '토큰 사용 내역', '토큰 사용 내역 목록']

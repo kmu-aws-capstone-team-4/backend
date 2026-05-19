@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/enums/application_status.py
+# hypothesis_version: 6.151.9
+
+['applied', 'planned', 'saved', '관심 저장', '지원 예정', '지원 완료']

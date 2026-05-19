@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/terms_documents/views/terms_list_api_view.py
+# hypothesis_version: 6.151.9
+
+[200, '약관', '약관 목록 조회']

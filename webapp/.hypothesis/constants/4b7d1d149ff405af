@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/profiles/admin/profile_admin.py
+# hypothesis_version: 6.151.9
+
+['-', '-created_at', 'avatar', 'avatar_image', 'avatar_preview', 'category', 'created_at', 'deleted_at', 'fields', 'job_category', 'jobs', 'queryset', 'updated_at', 'user', 'user__email', 'user__name', '날짜', '미리보기', '아바타', '아바타가 없습니다.', '희망 직업']

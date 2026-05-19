@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/logging.py
+# hypothesis_version: 6.151.9
+
+[200, 4096, '()', 'DEBUG', 'DRF_LOGGER_INTERVAL', 'FULL_PATH', 'INFO', 'LOGGING', 'WARNING', 'access', 'admin', 'api', 'application/json', 'class', 'common', 'console', 'django', 'django.request', 'django_guid', 'django_structlog', 'exclude_health_check', 'filters', 'formatter', 'formatters', 'handlers', 'health-check', 'iso', 'level', 'loggers', 'password', 'password1', 'password2', 'processors', 'propagate', 'refresh', 'root', 'secret', 'structlog', 'token', 'users', 'uvicorn.access', 'version']

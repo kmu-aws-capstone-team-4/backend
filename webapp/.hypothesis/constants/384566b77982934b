@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/tickets/models/ticket_log.py
+# hypothesis_version: 6.151.9
+
+[200, '-created_at', 'action_type', 'expire', 'grant', 'refund', 'ticket_logs', 'use', 'user', '만료', '메타데이터', '발급', '발급/환불은 양수, 사용/만료는 음수', '변동 수량', '변동 후 잔액', '사용', '사용자', '사유', '액션 타입', '티켓 이력', '티켓 이력 목록', '환불']

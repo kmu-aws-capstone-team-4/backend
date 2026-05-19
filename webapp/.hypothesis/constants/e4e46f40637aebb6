@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/resume_parsed_data_writer.py
+# hypothesis_version: 6.151.9
+
+['display_order', 'email', 'location', 'name', 'phone', 'resume_job_category', 'text', 'updated_at']

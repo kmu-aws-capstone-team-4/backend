@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/migrations/0003_interviewrecording.py
+# hypothesis_version: 6.151.9
+
+[100, 200, 500, 'Audio', 'Completed', 'Failed', 'Initiated', 'InterviewRecording', 'Processing', 'Ready', 'S3 버킷', 'S3 키', 'Uploading', 'Video', 'abstract', 'audio', 'audio_key', 'completed', 'created_at', 'db_table', 'duration_ms', 'end_timestamp', 'failed', 'frame_prefix', 'initiated', 'interview_recordings', 'interview_session', 'interview_turn', 'interviews', 'media_type', 'objects', 'ordering', 'processing', 'ready', 'recordings', 's3_bucket', 's3_key', 'scaled_audio_key', 'scaled_video_key', 'start_timestamp', 'status', 'updated_at', 'upload_id', 'uploading', 'user', 'uuid', 'verbose_name', 'verbose_name_plural', 'video', '녹화 길이 (ms)', '녹화 시작 시각', '녹화 종료 시각', '면접 녹화', '면접 녹화 목록', '면접 세션', '면접 턴', '미디어 유형', '사용자', '상태', '스케일 영상 S3 키', '스케일 음성 S3 키', '업로드 ID', '음성 S3 키', '프레임 S3 접두사']

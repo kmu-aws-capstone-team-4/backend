@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_career_meta.py
+# hypothesis_version: 6.151.9
+
+['career_meta', 'resume_career_metas', 'resumes.Resume', '이력서 경력 메타']

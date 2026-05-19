@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/user_job_descriptions/views/user_job_description_stats_view.py
+# hypothesis_version: 6.151.9
+
+[200, 'applied', 'planned', 'saved', 'total', 'uuid', '사용자 채용공고', '사용자 채용공고 상태별 카운트']

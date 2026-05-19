@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/filters/trigram_search_filter.py
+# hypothesis_version: 6.151.9
+
+[0.1, '-similarity', '^=$@', 'trigram_limit', 'trigram_threshold']

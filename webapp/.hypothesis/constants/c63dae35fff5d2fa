@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/migrations/0003_remove_resume_is_active.py
+# hypothesis_version: 6.151.9
+
+['is_active', 'resume', 'resumes']

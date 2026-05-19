@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/resume_parsed_data_reader.py
+# hypothesis_version: 6.151.9
+
+['awards', 'basic_info', 'career_meta', 'certifications', 'company', 'date', 'degree', 'description', 'educations', 'email', 'experiences', 'highlights', 'industry_domains', 'issuer', 'job_category', 'keywords', 'language', 'languages', 'languages_spoken', 'level', 'location', 'major', 'name', 'organization', 'period', 'phone', 'projects', 'responsibilities', 'role', 'school', 'skills', 'soft', 'summary', 'tech_stack', 'technical', 'tools', 'year']

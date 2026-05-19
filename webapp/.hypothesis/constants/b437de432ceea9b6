@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/base.py
+# hypothesis_version: 6.151.9
+
+['ALLOWED_HOSTS', 'OPENAI_API_KEY', 'OPENAI_MODEL', 'config.urls', 'gpt-4o-mini']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/exceptions/permission_denied_exception.py
+# hypothesis_version: 6.151.9
+
+['PERMISSION_DENIED', '접근 권한이 없습니다.']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/terms_documents/models/user_consent.py
+# hypothesis_version: 6.151.9
+
+['terms_document', 'user', 'user_consents', 'users.User', '동의 일시', '사용자', '사용자 약관 동의', '사용자 약관 동의 목록', '약관']

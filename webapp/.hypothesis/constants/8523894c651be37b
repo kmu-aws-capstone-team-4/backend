@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/llm/token_tracker.py
+# hypothesis_version: 6.151.9
+
+[0.15, 0.6, 2.5, 10.0, 1000000, 'completion_tokens', 'gpt-4o', 'gpt-4o-mini', 'input', 'input_tokens', 'output', 'output_tokens', 'prompt_tokens', 'token_usage', 'total_tokens', 'usage', '토큰 사용량 추출 중 오류 발생']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/realtime_docs/views.py
+# hypothesis_version: 6.151.9
+
+['consumers', 'ensure_ascii', 'host', 'http', 'http_scheme', 'https', 'indent', 'spec_json', 'ws', 'ws_scheme', 'wss']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/admin/user_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'classes', 'created_at', 'deleted_at', 'email', 'email_confirmed_at', 'fields', 'groups', 'is_active', 'is_email_confirmed', 'is_profile_completed', 'is_staff', 'is_superuser', 'last_login', 'name', 'password1', 'password2', 'profile_completed_at', 'updated_at', 'user_permissions', 'wide', '권한', '날짜', '인증 상태']

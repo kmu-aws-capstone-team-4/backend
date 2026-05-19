@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/enums/behavior_analysis_status.py
+# hypothesis_version: 6.151.9
+
+['completed', 'failed', 'pending', 'processing']

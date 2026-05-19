@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/tickets/urls.py
+# hypothesis_version: 6.151.9
+
+['me/', 'policies/', 'ticket-me', 'ticket-policies']

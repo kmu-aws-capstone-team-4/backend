@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/notifications/services/create_notification_service.py
+# hypothesis_version: 6.151.9
+
+['category', 'createdAt', 'id', 'message', 'notifiableId', 'notifiableType', 'notifiable_id', 'notifiable_type', 'payload', 'type', 'user.message']

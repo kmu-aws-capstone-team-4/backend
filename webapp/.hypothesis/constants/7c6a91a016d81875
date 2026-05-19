@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/users/views/change_password_api_view.py
+# hypothesis_version: 6.151.9
+
+[200, 'message', 'new_password', 'old_password', '비밀번호 변경', '비밀번호가 변경되었습니다.', '사용자']

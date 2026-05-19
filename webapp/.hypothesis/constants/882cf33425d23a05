@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/tickets/admin/ticket_log_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'action_type', 'amount', 'balance_after', 'created_at', 'reason', 'updated_at', 'user', 'user__email']

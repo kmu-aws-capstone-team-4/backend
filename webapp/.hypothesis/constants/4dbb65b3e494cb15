@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/seed_resume_templates_service.py
+# hypothesis_version: 6.151.9
+
+['CS', 'DevOps', '데이터 엔지니어', '디지털 마케터', '머신러닝', '백엔드', '브랜드', '세무', '영업', '인사', '재무', '채용', '콘텐츠', '퍼포먼스', '풀스택', '프론트엔드', '회계']

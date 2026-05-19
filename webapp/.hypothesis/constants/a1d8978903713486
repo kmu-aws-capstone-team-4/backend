@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/__init__.py
+# hypothesis_version: 6.151.9
+
+['FileResume', 'IndustryDomain', 'Keyword', 'Resume', 'ResumeAward', 'ResumeBasicInfo', 'ResumeCareerMeta', 'ResumeCertification', 'ResumeEducation', 'ResumeEmbedding', 'ResumeExperience', 'ResumeFileContent', 'ResumeIndustryDomain', 'ResumeJobCategory', 'ResumeKeyword', 'ResumeLanguageSpoken', 'ResumeProject', 'ResumeSkill', 'ResumeSummary', 'ResumeTextContent', 'ResumeTokenUsage', 'Skill', 'TechStack', 'TextResume']

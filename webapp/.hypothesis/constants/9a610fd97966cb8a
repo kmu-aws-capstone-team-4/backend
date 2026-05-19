@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/submit_answer_for_full_process_service.py
+# hypothesis_version: 6.151.9
+
+['answer', 'interview_session', 'interview_turn', 'turn_number', 'updated_at', '답변 내용이 비어있습니다.', '이미 답변이 제출된 턴입니다.', '해당 세션의 턴이 아닙니다.']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/search_playground_admin.py
+# hypothesis_version: 6.151.9
+
+[0.0, 1.0, 500, ' AND resume_id = %s', ' LIMIT 1', '-created_at', 'POST', 'analysis_status', 'chunk_index', 'completed', 'debug_info', 'dims', 'distance', 'distance_samples', 'email', 'error', 'form', 'keyword', 'placeholder', 'results', 'resume', 'resume_id', 'search-playground', 'search_playground', 'search_tokens', 'similarity', 'similarity_threshold', 'status_summary', 'title', 'top_k', 'total_embeddings', 'total_resumes', 'type', 'user', 'user-resumes/', 'user_id', 'user_resumes_url', 'uuid', 'vector_check', '검색 대상 사용자를 선택하세요.', '검색 대상 이력서를 선택하세요.', '검색 플레이그라운드', '검색 플레이그라운드 오류: %s', '검색어', '사용자', '예: Python 백엔드 개발 경험', '유사도 임계값', '이력서', '이력서 검색 플레이그라운드', '최대 결과 수']

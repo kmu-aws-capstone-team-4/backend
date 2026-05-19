@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_token_usage.py
+# hypothesis_version: 6.151.9
+
+[100, 'Resume Token Usage', 'Resume Token Usages', 'operation_type', 'resume_id', 'resume_token_usages', 'resume_tu_op_idx', 'resume_tu_resume_idx', 'resume_tu_user_idx', 'resumes.Resume', 'token_usages', 'user_id']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_experience.py
+# hypothesis_version: 6.151.9
+
+[100, 200, 'created_at', 'display_order', 'experiences', 'resume', 'resume_experiences', 'resumes.Resume', '이력서 경력']

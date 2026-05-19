@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/users/views/token_cookie.py
+# hypothesis_version: 6.151.9
+
+['/api/v1/users/', 'ENVIRONMENT', 'Lax', 'None', 'mefit_refresh', 'test']

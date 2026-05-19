@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/interviews/views/presign_part_view.py
+# hypothesis_version: 6.151.9
+
+[1800, 'Bucket', 'Key', 'PartNumber', 'UploadId', 'partNumber', 'part_number', 'presignedUrl', 'upload_part', '면접 녹화', '업로드 가능한 상태가 아닙니다.']

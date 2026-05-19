@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/tech_stack_admin.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'name', 'updated_at', 'uuid']

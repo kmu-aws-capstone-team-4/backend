@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/signals/on_profile_completed.py
+# hypothesis_version: 6.151.9
+
+['profile_completed_at']

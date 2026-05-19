@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/regenerate_analysis_report_service.py
+# hypothesis_version: 6.151.9
+
+['analysis', 'bundle_url', 'category_scores', 'error_message', 'improvement_areas', 'overall_comment', 'overall_grade', 'overall_score', 'question_feedbacks', 'strengths', 'updated_at']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/interviews/views/complete_recording_view.py
+# hypothesis_version: 6.151.9
+
+['duration_ms', 'end_timestamp', 'parts', 'recordingId', 'status', '녹화 완료 — 멀티파트 업로드 완료', '면접 녹화']

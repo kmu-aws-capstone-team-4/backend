@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/urls.py
+# hypothesis_version: 6.151.9
+
+['achievements/', 'api.v1.demo.urls', 'api.v1.profiles.urls', 'api.v1.realtime.urls', 'api.v1.resumes.urls', 'api.v1.streaks.urls', 'api.v1.tickets.urls', 'api.v1.users.urls', 'demo/', 'health-check/', 'interviews/', 'job-descriptions/', 'notifications/', 'realtime/', 'resumes/', 'streaks/', 'subscriptions/', 'terms-documents/', 'tickets/', 'users/']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_skill.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'display_order', 'resume', 'resume_skills', 'resumes.Resume', 'resumes.Skill', 'skill', '이력서 스킬 매핑']

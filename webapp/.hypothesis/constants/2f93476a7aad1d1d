@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/interviews/urls.py
+# hypothesis_version: 6.151.9
+
+['interview-answer', 'interview-finish', 'interview-report', 'interview-session', 'interview-sessions', 'interview-start', 'interview-turn-list', 'recording-abort', 'recording-complete', 'recording-initiate', 'recording-list']

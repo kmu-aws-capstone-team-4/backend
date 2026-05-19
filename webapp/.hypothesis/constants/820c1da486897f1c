@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/slack/blocks/actions.py
+# hypothesis_version: 6.151.9
+
+['action_id', 'actions', 'button', 'danger', 'elements', 'emoji', 'plain_text', 'primary', 'style', 'text', 'type', 'url', 'value']

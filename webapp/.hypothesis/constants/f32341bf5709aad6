@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume.py
+# hypothesis_version: 6.151.9
+
+[255, 'Resume', 'Resumes', 'analysis_status', 'analysis_step', 'analyzed_at', 'awards', 'basic_info', 'career_meta', 'certifications', 'educations', 'experiences', 'file_content', 'is_dirty', 'is_parsed', 'languages_spoken', 'last_finalized_at', 'parsed_data', 'projects', 'resume_keywords', 'resume_skills', 'resumes', 'summary', 'text_content', 'type', 'updated_at', 'user_id', '감지된 이력서 직군 분류', '마지막 최종 저장 시각', '변경 대기 상태', '원본 입력 방식']

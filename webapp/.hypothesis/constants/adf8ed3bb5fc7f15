@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/migrations/0003_userjobdescription_application_status.py
+# hypothesis_version: 6.151.9
+
+['application_status', 'applied', 'job_descriptions', 'planned', 'saved', 'userjobdescription', '관심 저장', '지원 상태', '지원 예정', '지원 완료']

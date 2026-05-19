@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/validators/condition_payload_validator.py
+# hypothesis_version: 6.151.9
+
+['!=', '<', '<=', '==', '>', '>=', 'AND', 'OR', 'exists', 'field_exists', 'field_path', 'filters', 'group', 'logic', 'metric_key', 'metric_threshold', 'operator', 'query_key', 'rules', 'streak.current_days', 'target', 'type']

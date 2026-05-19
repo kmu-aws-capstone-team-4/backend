@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/services/manual_refresh_rate_limit_service.py
+# hypothesis_version: 6.151.9
+
+[300, 'event', 'failure_reason', 'user_id']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/demo/views/scrape_demo_api_view.py
+# hypothesis_version: 6.151.9
+
+[202, 'detail', 'object', 'pending', 'properties', 'scraping', 'string', 'task_id', 'type', 'url', '데모', '이미 수집된 공고입니다.', '채용공고 스크래핑 태스크 발행']

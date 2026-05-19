@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/signals/notify_behavior_analysis_completed.py
+# hypothesis_version: 6.151.9
+
+['interview', 'status']

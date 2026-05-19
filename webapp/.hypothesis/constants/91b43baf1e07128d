@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/resume_text_content_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'content', 'created_at', 'fields', 'id', 'resume', 'updated_at', 'user', 'user__email', '날짜']

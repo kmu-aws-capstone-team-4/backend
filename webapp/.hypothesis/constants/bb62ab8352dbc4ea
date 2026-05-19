@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/enums/difficulty_level.py
+# hypothesis_version: 6.151.9
+
+['friendly', 'normal', 'pressure', '압박 면접관', '일반 면접관', '친근한 면접관']

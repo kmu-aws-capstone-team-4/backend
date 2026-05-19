@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/exceptions/conflict_exception.py
+# hypothesis_version: 6.151.9
+
+['CONFLICT', '리소스가 충돌합니다.']

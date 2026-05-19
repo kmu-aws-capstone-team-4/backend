@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/tickets/models/user_ticket.py
+# hypothesis_version: 6.151.9
+
+['ticket', 'unique_user_ticket', 'user', '구독 정책에 의해 매일 리셋되는 티켓', '구매 티켓 수', '구매/보상 등으로 획득한 영구 티켓', '사용자', '사용자 티켓', '사용자 티켓 목록', '일일 티켓 수']

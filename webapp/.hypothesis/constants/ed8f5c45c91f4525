@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/interviews/serializers/recording_serializers.py
+# hypothesis_version: 6.151.9
+
+[10000, 'audio', 'audioUrl', 'expiresIn', 'interview_turn_id', 'mediaType', 'pk', 'recordingId', 's3Key', 'scaledUrl', 'uploadId', 'video']

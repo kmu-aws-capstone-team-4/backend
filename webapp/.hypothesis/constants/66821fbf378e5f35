@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/admin/interview_analysis_report_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'category_scores', 'created_at', 'error_message', 'fields', 'improvement_areas', 'interview_session', 'interview_session_id', 'overall_comment', 'overall_grade', 'overall_score', 'pk', 'question_feedbacks', 'regenerate', 'regenerate_report', 'strengths', 'updated_at', '날짜', '리포트 재생성', '상세 분석', '선택한 리포트 재생성', '종합 평가']

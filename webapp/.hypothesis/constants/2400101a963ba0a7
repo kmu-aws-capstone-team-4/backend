@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/__init__.py
+# hypothesis_version: 6.151.9
+
+['FileResumeAdmin', 'IndustryDomainAdmin', 'KeywordAdmin', 'ResumeAdmin', 'ResumeAwardAdmin', 'ResumeBasicInfoAdmin', 'ResumeEducationAdmin', 'ResumeEmbeddingAdmin', 'ResumeKeywordAdmin', 'ResumeProjectAdmin', 'ResumeSkillAdmin', 'ResumeSummaryAdmin', 'SkillAdmin', 'TechStackAdmin', 'TextResumeAdmin']

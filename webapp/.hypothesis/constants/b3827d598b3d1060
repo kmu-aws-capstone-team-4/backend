@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/admin/interview_playground_admin.py
+# hypothesis_version: 6.151.9
+
+[300, 404, 405, '%Y-%m-%d %H:%M', '-created_at', 'HTTP_HOST', 'POST', 'POST only', 'answer', 'content_preview', 'data', 'difficulty_levels', 'error', 'id', 'in_progress_sessions', 'interview-playground', 'interview_playground', 'job_description', 'json', 'label', 'playground-api/', 'playground_api_base', 'question', 'question_source', 'replace', 'resumes', 'session_types', 'status_code', 'title', 'turn_number', 'turn_type', 'turns', 'ujds', 'utf-8', 'uuid', '면접 플레이그라운드', '세션을 찾을 수 없습니다.']

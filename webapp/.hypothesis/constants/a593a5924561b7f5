@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/permissions/is_email_verified.py
+# hypothesis_version: 6.151.9
+
+['이메일 인증이 필요합니다.']

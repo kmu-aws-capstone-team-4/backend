@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/signals/notify_job_description_done.py
+# hypothesis_version: 6.151.9
+
+['collection_status', 'jd', 'user']

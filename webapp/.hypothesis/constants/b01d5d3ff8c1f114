@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/interviews/views/initiate_recording_view.py
+# hypothesis_version: 6.151.9
+
+['media_type', 'turn_id', '녹화 시작 — 멀티파트 업로드 초기화', '면접 녹화']

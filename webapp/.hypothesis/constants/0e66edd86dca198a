@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/slack/sender.py
+# hypothesis_version: 6.151.9
+
+['ENVIRONMENT', 'blocks', 'channel', 'development', 'slack_message_sent', 'test', 'text', 'thread_ts', 'ts']

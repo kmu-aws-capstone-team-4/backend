@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/resume_keyword_admin.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'display_order', 'keyword', 'keyword__text', 'resume', 'resume__title', 'updated_at', 'uuid']

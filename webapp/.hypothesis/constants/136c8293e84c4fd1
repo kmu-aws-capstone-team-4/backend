@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/models/__init__.py
+# hypothesis_version: 6.151.9
+
+['AllObjectsManager', 'BaseModel', 'BaseModelManager', 'BaseModelQuerySet', 'BaseModelWithUUID', 'SoftDeleteManager', 'SoftDeleteQuerySet']

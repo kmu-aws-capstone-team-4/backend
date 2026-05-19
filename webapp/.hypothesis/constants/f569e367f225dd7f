@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/delete_resume_language_spoken_service.py
+# hypothesis_version: 6.151.9
+
+['resume', 'uuid', '구사 언어 항목을 찾을 수 없습니다.']

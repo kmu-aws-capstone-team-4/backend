@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/factories/achievement_factory.py
+# hypothesis_version: 6.151.9
+
+['>=', 'AND', 'amount', 'group', 'logic', 'metric_key', 'metric_threshold', 'operator', 'rules', 'target', 'ticket', 'type', '테스트 도전과제']

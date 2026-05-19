@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/subscriptions/validators/subscription_validator.py
+# hypothesis_version: 6.151.9
+
+['expires_at']

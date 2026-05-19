@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/search_resume_embedding_service.py
+# hypothesis_version: 6.151.9
+
+[0.3, 'chunk_index', 'chunk_type', 'context', 'distance', 'embedding_uuid', 'embedding_vector', 'keyword', 'record_usage', 'resume', 'resume_uuid', 'similarity', 'similarity_threshold', 'title', 'top_k']

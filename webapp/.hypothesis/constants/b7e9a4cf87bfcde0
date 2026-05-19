@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/initiate_recording_service.py
+# hypothesis_version: 6.151.9
+
+[1000, 'UploadId', 'audio/webm', 'interview_session', 'interview_turn', 'media_type', 'recordingId', 's3Key', 'uploadId', 'video/webm', '본인의 면접만 녹화할 수 있습니다.']

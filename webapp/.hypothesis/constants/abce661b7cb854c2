@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/skill.py
+# hypothesis_version: 6.151.9
+
+[100, 'Skill | None', 'name', 'skill_type', 'skills', '스킬 분류', '스킬명', '이력서 스킬']

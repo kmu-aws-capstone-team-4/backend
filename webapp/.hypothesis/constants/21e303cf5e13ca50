@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/installed_app.py
+# hypothesis_version: 6.151.9
+
+['INSTALLED_APPS', 'achievements', 'api', 'channels', 'common', 'corsheaders', 'django.contrib.admin', 'django.contrib.auth', 'django_celery_beat', 'django_extensions', 'django_filters', 'django_guid', 'django_structlog', 'drf_api_logger', 'drf_spectacular', 'easymde', 'import_export', 'interviews', 'job_descriptions', 'llm_trackers', 'markdownx', 'notifications', 'profiles', 'psqlextra', 'realtime_docs', 'rest_framework', 'resumes', 'storages', 'streaks', 'subscriptions', 'terms_documents', 'tickets', 'unfold', 'unfold.contrib.forms', 'users']

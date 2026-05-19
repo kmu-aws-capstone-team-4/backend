@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/models/interview_session.py
+# hypothesis_version: 6.151.9
+
+['interview_sessions', 'resumes.Resume', 'token_usable_id', 'token_usable_type', 'updated_at', '난이도', '면접 세션', '면접 세션 목록', '사용자', '사용자 채용공고', '세션 상태', '세션 유형', '연습/실전 모드', '이력서', '총 꼬리질문 수', '총 질문 수']

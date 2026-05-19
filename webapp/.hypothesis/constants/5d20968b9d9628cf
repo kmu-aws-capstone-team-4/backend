@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/notifications/migrations/0001_initial.py
+# hypothesis_version: 6.151.9
+
+['-created_at', '-updated_at', 'ID', 'Notification', 'abstract', 'category', 'contenttypes', 'created_at', 'db_table', 'get_latest_by', 'id', 'indexes', 'interview', 'is_read', 'jd', 'message', 'notifiable_id', 'notifiable_type', 'notifications', 'objects', 'ordering', 'resume', 'system', 'updated_at', 'user', 'verbose_name', 'verbose_name_plural', '관련 객체 PK', '관련 모델 타입', '메시지', '면접', '사용자', '시스템', '알림', '알림 목록', '이력서', '읽음 여부', '채용공고', '카테고리']

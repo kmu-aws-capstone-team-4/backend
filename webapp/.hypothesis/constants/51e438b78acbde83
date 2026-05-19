@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/user_job_descriptions/serializers/user_job_description_list_serializer.py
+# hypothesis_version: 6.151.9
+
+['application_status', 'collection_status', 'company', 'created_at', 'duties', 'education', 'error_message', 'experience', 'id', 'job_description', 'location', 'platform', 'preferred', 'requirements', 'salary', 'scraped_at', 'title', 'updated_at', 'url', 'uuid', 'work_type']

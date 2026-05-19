@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/models/base_model_with_soft_delete.py
+# hypothesis_version: 6.151.9
+
+['deleted_at', 'pk', 'updated_at']

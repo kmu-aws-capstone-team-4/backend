@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/apply_analysis_result_service.py
+# hypothesis_version: 6.151.9
+
+['analyze', 'chunk_index', 'chunk_type', 'content', 'context', 'embeddings', 'file_content', 'file_text_content', 'model_name', 'operation_type', 'parsed_data', 'prompt_tokens', 'resume', 'token_usages', 'total_tokens', 'updated_at', 'vector']

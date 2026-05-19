@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/realtime_docs/schema.py
+# hypothesis_version: 6.151.9
+
+['$ref', '1.0.0', '3.0.0', 'Client → Server', 'ClientMessage', 'Realtime API', 'Server → Client', 'ServerMessage', 'action', 'address', 'asyncapi', 'channel', 'channels', 'description', 'event', 'host', 'http', 'https', 'info', 'messages', 'name', 'object', 'operations', 'payload', 'protocol', 'receive', 'schema', 'send', 'servers', 'sse', 'tags', 'title', 'type', 'version', 'websocket', 'ws', 'wss']

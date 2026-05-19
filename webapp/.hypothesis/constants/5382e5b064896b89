@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/enums/skill_type.py
+# hypothesis_version: 6.151.9
+
+['language', 'soft', 'technical', 'tool', '기술', '도구', '소프트', '언어']

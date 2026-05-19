@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/models/interview_analysis_report.py
+# hypothesis_version: 6.151.9
+
+['analysis_report', 'error_message', 'token_usable_id', 'token_usable_type', 'updated_at', '강점', '개선 영역', '리포트 상태', '면접 분석 리포트', '면접 분석 리포트 목록', '면접 세션', '에러 메시지', '종합 등급', '종합 점수', '종합 코멘트', '질문별 피드백', '카테고리별 점수']

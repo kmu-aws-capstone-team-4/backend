@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/models/password_reset_token.py
+# hypothesis_version: 6.151.9
+
+['token', 'used_at', 'user', '비밀번호 재설정 토큰', '비밀번호 재설정 토큰 목록', '사용자']

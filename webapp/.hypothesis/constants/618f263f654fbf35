@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_award.py
+# hypothesis_version: 6.151.9
+
+[200, 'awards', 'created_at', 'display_order', 'resume', 'resume_awards', 'resumes.Resume', '이력서 수상 이력']

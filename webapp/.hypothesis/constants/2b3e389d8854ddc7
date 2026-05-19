@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/slack/blocks/section.py
+# hypothesis_version: 6.151.9
+
+[2900, 'fields', 'mrkdwn', 'section', 'text', 'type']

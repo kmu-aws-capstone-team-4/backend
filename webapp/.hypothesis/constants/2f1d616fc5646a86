@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/interviews/views/turn_list_view.py
+# hypothesis_version: 6.151.9
+
+['followup_order', 'sort_followup_order', 'turn_number', '면접', '면접 턴 목록 조회']

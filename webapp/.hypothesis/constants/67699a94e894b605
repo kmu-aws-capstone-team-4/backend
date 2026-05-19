@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/tickets/services/base_ticket_service.py
+# hypothesis_version: 6.151.9
+
+['amount', 'auto', 'daily', 'daily_count', 'metadata', 'purchased', 'purchased_count', 'reason', 'target', 'updated_at', '티켓을 보유하고 있지 않습니다.']

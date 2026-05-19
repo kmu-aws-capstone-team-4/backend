@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/users/views/user_me_api_view.py
+# hypothesis_version: 6.151.9
+
+[200, '내 정보 조회', '사용자']

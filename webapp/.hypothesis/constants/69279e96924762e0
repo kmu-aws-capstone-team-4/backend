@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/admin.py
+# hypothesis_version: 6.151.9
+
+['SHOW_BACK_BUTTON', 'SHOW_HISTORY', 'SHOW_VIEW_ON_SITE', 'SITE_BRANDING', 'SITE_HEADER', 'SITE_TITLE', 'UNFOLD']

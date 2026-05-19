@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/profiles/urls.py
+# hypothesis_version: 6.151.9
+
+['avatar-upload', 'job-categories', 'job-category', 'job-list', 'profile-me', 'profiles/me/', 'profiles/me/avatar/']

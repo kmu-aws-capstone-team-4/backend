@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/enums/session_status.py
+# hypothesis_version: 6.151.9
+
+['completed', 'in_progress', '완료', '진행 중']

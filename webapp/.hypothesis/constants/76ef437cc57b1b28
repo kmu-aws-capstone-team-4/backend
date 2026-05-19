@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/profiles/admin/job_admin.py
+# hypothesis_version: 6.151.9
+
+['bulk_close_jobs', 'bulk_open_jobs', 'category', 'category__name', 'close-job', 'close_job', 'created_at', 'deleted_at', 'fields', 'is_opened', 'name', 'open-job', 'open_job', 'opened_at', 'updated_at', '날짜', '선택한 직업 닫기', '선택한 직업 오픈', '오픈 여부', '직업 닫기', '직업 오픈']

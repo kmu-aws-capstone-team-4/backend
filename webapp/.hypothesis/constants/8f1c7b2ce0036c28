@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/common.py
+# hypothesis_version: 6.151.9
+
+['ASGI_APPLICATION', 'BASE_DIR', 'DEBUG', 'DEVELOPER', 'MeFit', 'Mefit', 'SECRET_KEY', 'SERVICE_NAME', 'SITE_ID', 'WSGI_APPLICATION', 'env']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/upsert_resume_education_service.py
+# hypothesis_version: 6.151.9
+
+['degree', 'display_order', 'major', 'period', 'resume', 'school', 'uuid', '학력 항목을 찾을 수 없습니다.']

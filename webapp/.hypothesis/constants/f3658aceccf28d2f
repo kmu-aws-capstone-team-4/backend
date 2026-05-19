@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/abort_recording_service.py
+# hypothesis_version: 6.151.9
+
+['recording', 'status', '본인의 녹화만 취소할 수 있습니다.']

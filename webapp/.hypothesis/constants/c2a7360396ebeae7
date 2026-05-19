@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/urls.py
+# hypothesis_version: 6.151.9
+
+['^media/(?P<path>.*)$', 'admin/', 'admin/flower/', 'api.urls', 'api/', 'document_root', 'markdownx.urls', 'markdownx/', 'path', 'realtime-docs/', 'realtime_docs.urls', 'redoc', 'redoc/', 'schema', 'schema/', 'swagger-ui']

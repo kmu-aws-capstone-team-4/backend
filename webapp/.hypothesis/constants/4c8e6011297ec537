@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/terms_documents/urls.py
+# hypothesis_version: 6.151.9
+
+['<int:pk>/', 'consents/', 'my-consents', 'my-consents/', 'terms-document-list']

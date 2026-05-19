@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/services/send_password_reset_email_service.py
+# hypothesis_version: 6.151.9
+
+['reset_url', 'token_uuid', 'user_email', '비밀번호 재설정 안내']

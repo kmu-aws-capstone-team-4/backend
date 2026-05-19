@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/users/serializers/sign_up_serializer.py
+# hypothesis_version: 6.151.9
+
+['password1', 'password2', '비밀번호가 일치하지 않습니다.', '이미 사용 중인 이메일입니다.']

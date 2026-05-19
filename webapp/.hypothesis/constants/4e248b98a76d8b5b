@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/admin/user_job_description_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'application_status', 'created_at', 'fields', 'job_description', 'title', 'updated_at', 'user', 'user__email', 'uuid', '날짜']

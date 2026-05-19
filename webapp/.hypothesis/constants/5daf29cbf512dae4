@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/interviews/serializers/interview_turn_serializer.py
+# hypothesis_version: 6.151.9
+
+['answer', 'created_at', 'followup_order', 'id', 'question', 'question_source', 'speech_segments', 'turn_number', 'turn_type']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/profiles/services/__init__.py
+# hypothesis_version: 6.151.9
+
+['AvatarUploadService', 'SeedService']

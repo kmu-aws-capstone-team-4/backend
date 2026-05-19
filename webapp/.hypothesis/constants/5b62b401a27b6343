@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/slack/blocks/rich_text.py
+# hypothesis_version: 6.151.9
+
+['bold', 'bullet', 'code', 'elements', 'indent', 'italic', 'language', 'offset', 'ordered', 'rich_text', 'rich_text_list', 'rich_text_quote', 'rich_text_section', 'style', 'text', 'type']

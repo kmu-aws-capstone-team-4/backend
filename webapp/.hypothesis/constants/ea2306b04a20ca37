@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/resume_token_usage_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'created_at', 'fields', 'id', 'model_name', 'operation_type', 'prompt_tokens', 'resume', 'total_tokens', 'updated_at', 'user', 'user__email', '날짜', '토큰 사용량']

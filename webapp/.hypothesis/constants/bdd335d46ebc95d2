@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/streaks/admin/streak_statistics_admin.py
+# hypothesis_version: 6.151.9
+
+['-current_streak', 'POST', 'created_at', 'current_streak', 'email', 'error_count', 'form', 'longest_streak', 'recalculate', 'recalculate-multiple', 'title', 'updated_at', 'user', 'user__email', 'user_id', 'users', '사용자 선택', '선택한 사용자 통계 재계산', '스트릭 통계 재계산', '통계 재계산', '통계 재계산 (다중)']

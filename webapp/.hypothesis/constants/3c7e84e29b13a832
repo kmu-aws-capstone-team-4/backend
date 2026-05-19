@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/admin/email_verification_code_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'code', 'created_at', 'expires_at', 'fields', 'is_used', 'updated_at', 'used_at', 'user', 'user__email', '날짜', '상태']

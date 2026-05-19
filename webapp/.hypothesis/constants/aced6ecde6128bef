@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/enums/resume_type.py
+# hypothesis_version: 6.151.9
+
+['file', 'structured', 'text', '자유 텍스트', '정규화 입력', '파일 업로드']

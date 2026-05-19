@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/enums/question_source.py
+# hypothesis_version: 6.151.9
+
+['job_description', 'resume', 'unknown', '미분류', '이력서', '채용공고']

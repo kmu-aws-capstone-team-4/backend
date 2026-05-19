@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Coverage for api/v1/resumes/serializers/resume_structured_create_request_serializer.py: 93%</title>
+    <link rel="icon" sizes="32x32" href="favicon_32_cb_c827f16f.png">
+    <link rel="stylesheet" href="style_cb_9ff733b0.css" type="text/css">
+    <script src="coverage_html_cb_dd2e7eb5.js" defer></script>
+</head>
+<body class="pyfile">
+<header>
+    <div class="content">
+        <h1>
+            <span class="text">Coverage for </span><b>api&#8201;/&#8201;v1&#8201;/&#8201;resumes&#8201;/&#8201;serializers&#8201;/&#8201;resume_structured_create_request_serializer.py</b>:
+            <span class="pc_cov">93%</span>
+        </h1>
+        <aside id="help_panel_wrapper">
+            <input id="help_panel_state" type="checkbox">
+            <label for="help_panel_state">
+                <img id="keyboard_icon" src="keybd_closed_cb_900cfef5.png" alt="Show/hide keyboard shortcuts">
+            </label>
+            <div id="help_panel">
+                <p class="legend">Shortcuts on this page</p>
+                <div class="keyhelp">
+                    <p>
+                        <kbd>r</kbd>
+                        <kbd>m</kbd>
+                        <kbd>x</kbd>
+                        &nbsp; toggle line displays
+                    </p>
+                    <p>
+                        <kbd>j</kbd>
+                        <kbd>k</kbd>
+                        &nbsp; next/prev highlighted chunk
+                    </p>
+                    <p>
+                        <kbd>0</kbd> &nbsp; (zero) top of page
+                    </p>
+                    <p>
+                        <kbd>1</kbd> &nbsp; (one) first highlighted chunk
+                    </p>
+                    <p>
+                        <kbd>[</kbd>
+                        <kbd>]</kbd>
+                        &nbsp; prev/next file
+                    </p>
+                    <p>
+                        <kbd>u</kbd> &nbsp; up to the index
+                    </p>
+                    <p>
+                        <kbd>?</kbd> &nbsp; show/hide this help
+                    </p>
+                </div>
+            </div>
+        </aside>
+        <h2>
+            <span class="text">57 statements &nbsp;</span>
+            <button type="button" class="run button_toggle_run" value="run" data-shortcut="r" title="Toggle lines run">53<span class="text"> run</span></button>
+            <button type="button" class="mis show_mis button_toggle_mis" value="mis" data-shortcut="m" title="Toggle lines missing">4<span class="text"> missing</span></button>
+            <button type="button" class="exc show_exc button_toggle_exc" value="exc" data-shortcut="x" title="Toggle lines excluded">0<span class="text"> excluded</span></button>
+        </h2>
+        <p class="text">
+            <a id="prevFileLink" class="nav" href="z_b1c00459c4164220_resume_stats_serializer_py.html">&#xab; prev</a> &nbsp; &nbsp;
+            <a id="indexLink" class="nav" href="index.html">&Hat; index</a> &nbsp; &nbsp;
+            <a id="nextFileLink" class="nav" href="z_b1c00459c4164220_resume_summary_nested_serializer_py.html">&#xbb; next</a>
+            &nbsp; &nbsp; &nbsp;
+            <a class="nav" href="https://coverage.readthedocs.io/en/7.13.5">coverage.py v7.13.5</a>,
+            created at 2026-05-19 04:46 +0000
+        </p>
+        <aside class="hidden">
+            <button type="button" class="button_next_chunk" data-shortcut="j"></button>
+            <button type="button" class="button_prev_chunk" data-shortcut="k"></button>
+            <button type="button" class="button_top_of_page" data-shortcut="0"></button>
+            <button type="button" class="button_first_chunk" data-shortcut="1"></button>
+            <button type="button" class="button_prev_file" data-shortcut="["></button>
+            <button type="button" class="button_next_file" data-shortcut="]"></button>
+            <button type="button" class="button_to_index" data-shortcut="u"></button>
+            <button type="button" class="button_show_hide_help" data-shortcut="?"></button>
+        </aside>
+    </div>
+</header>
+<main id="source">
+    <p class="pln"><span class="n"><a id="t1" href="#t1">1</a></span><span class="t"><span class="str">"""structured &#47784;&#46300; &#51060;&#47141;&#49436; &#49373;&#49457; &#50836;&#52397; serializer.</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t2" href="#t2">2</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t3" href="#t3">3</a></span><span class="t"><span class="str">&#49324;&#50857;&#51088;&#44032; &#51060;&#48120; &#44396;&#51312;&#54868; &#51077;&#47141; UI &#47196; &#51649;&#51217; &#51089;&#49457;&#54620; &#51221;&#44508;&#54868; &#45936;&#51060;&#53552;&#47484; &#54620; &#48264;&#50640; &#49688;&#49888;&#54620;&#45796;.</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t4" href="#t4">4</a></span><span class="t"><span class="str">LLM &#48516;&#49437; &#45800;&#44228;&#45716; &#49373;&#47029;&#46104;&#44256;, &#51200;&#51109; &#51649;&#54980; &#44263;&#48148;&#47196; &#51076;&#48288;&#46377; &#54028;&#51060;&#54532;&#46972;&#51064;&#51060; &#48156;&#54665;&#46108;&#45796;.</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t5" href="#t5">5</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t6" href="#t6">6</a></span><span class="t"><span class="str">drf-writable-nested &#47196; basic_info / summary / career_meta / experiences / educations /</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t7" href="#t7">7</a></span><span class="t"><span class="str">certifications / awards / projects / languages_spoken &#44620;&#51648; &#45800;&#51068; &#53944;&#47004;&#51117;&#49496;&#50640;&#49436; &#51200;&#51109;&#54616;&#44256;,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t8" href="#t8">8</a></span><span class="t"><span class="str">canonical &#52280;&#51312; &#53580;&#51060;&#48660;&#51012; &#44144;&#52824;&#45716; N:M (skills / industry_domains / keywords) &#44284;</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t9" href="#t9">9</a></span><span class="t"><span class="str">FK(resume_job_category) &#45716; write-only &#54596;&#46300;&#47196; &#48155;&#50500; create() &#54980;&#52376;&#47532;&#50640;&#49436; &#49436;&#48708;&#49828;&#47196; &#50948;&#51076;&#54620;&#45796;.</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t10" href="#t10">10</a></span><span class="t"><span class="str">"""</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t11" href="#t11">11</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t12" href="#t12">12</a></span><span class="t"><span class="key">from</span> <span class="nam">django</span><span class="op">.</span><span class="nam">utils</span> <span class="key">import</span> <span class="nam">timezone</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t13" href="#t13">13</a></span><span class="t"><span class="key">from</span> <span class="nam">drf_writable_nested</span> <span class="key">import</span> <span class="nam">WritableNestedModelSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t14" href="#t14">14</a></span><span class="t"><span class="key">from</span> <span class="nam">rest_framework</span> <span class="key">import</span> <span class="nam">serializers</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t15" href="#t15">15</a></span><span class="t"><span class="key">from</span> <span class="nam">resumes</span><span class="op">.</span><span class="nam">enums</span> <span class="key">import</span> <span class="nam">AnalysisStatus</span><span class="op">,</span> <span class="nam">AnalysisStep</span><span class="op">,</span> <span class="nam">ResumeSourceMode</span><span class="op">,</span> <span class="nam">ResumeType</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t16" href="#t16">16</a></span><span class="t"><span class="key">from</span> <span class="nam">resumes</span><span class="op">.</span><span class="nam">models</span> <span class="key">import</span> <span class="nam">Resume</span><span class="op">,</span> <span class="nam">ResumeJobCategory</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t17" href="#t17">17</a></span><span class="t"><span class="key">from</span> <span class="nam">resumes</span><span class="op">.</span><span class="nam">services</span> <span class="key">import</span> <span class="op">(</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t18" href="#t18">18</a></span><span class="t">  <span class="nam">ReplaceResumeIndustryDomainsService</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t19" href="#t19">19</a></span><span class="t">  <span class="nam">ReplaceResumeKeywordsService</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t20" href="#t20">20</a></span><span class="t">  <span class="nam">ReplaceResumeSkillsService</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t21" href="#t21">21</a></span><span class="t">  <span class="nam">UpdateResumeJobCategoryService</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t22" href="#t22">22</a></span><span class="t"><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t23" href="#t23">23</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t24" href="#t24">24</a></span><span class="t"><span class="key">from</span> <span class="op">.</span><span class="nam">resume_award_nested_serializer</span> <span class="key">import</span> <span class="nam">ResumeAwardNestedSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t25" href="#t25">25</a></span><span class="t"><span class="key">from</span> <span class="op">.</span><span class="nam">resume_basic_info_nested_serializer</span> <span class="key">import</span> <span class="nam">ResumeBasicInfoNestedSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t26" href="#t26">26</a></span><span class="t"><span class="key">from</span> <span class="op">.</span><span class="nam">resume_career_meta_nested_serializer</span> <span class="key">import</span> <span class="nam">ResumeCareerMetaNestedSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t27" href="#t27">27</a></span><span class="t"><span class="key">from</span> <span class="op">.</span><span class="nam">resume_certification_nested_serializer</span> <span class="key">import</span> <span class="nam">ResumeCertificationNestedSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t28" href="#t28">28</a></span><span class="t"><span class="key">from</span> <span class="op">.</span><span class="nam">resume_education_nested_serializer</span> <span class="key">import</span> <span class="nam">ResumeEducationNestedSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t29" href="#t29">29</a></span><span class="t"><span class="key">from</span> <span class="op">.</span><span class="nam">resume_experience_nested_serializer</span> <span class="key">import</span> <span class="nam">ResumeExperienceNestedSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t30" href="#t30">30</a></span><span class="t"><span class="key">from</span> <span class="op">.</span><span class="nam">resume_language_spoken_nested_serializer</span> <span class="key">import</span> <span class="nam">ResumeLanguageSpokenNestedSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t31" href="#t31">31</a></span><span class="t"><span class="key">from</span> <span class="op">.</span><span class="nam">resume_project_nested_serializer</span> <span class="key">import</span> <span class="nam">ResumeProjectNestedSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t32" href="#t32">32</a></span><span class="t"><span class="key">from</span> <span class="op">.</span><span class="nam">resume_skills_group_serializer</span> <span class="key">import</span> <span class="nam">ResumeSkillsGroupSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t33" href="#t33">33</a></span><span class="t"><span class="key">from</span> <span class="op">.</span><span class="nam">resume_summary_nested_serializer</span> <span class="key">import</span> <span class="nam">ResumeSummaryNestedSerializer</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t34" href="#t34">34</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t35" href="#t35">35</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t36" href="#t36">36</a></span><span class="t"><span class="key">class</span> <span class="nam">ResumeStructuredCreateRequestSerializer</span><span class="op">(</span><span class="nam">WritableNestedModelSerializer</span><span class="op">)</span><span class="op">:</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t37" href="#t37">37</a></span><span class="t">  <span class="str">"""&#49324;&#50857;&#51088;&#44032; &#44396;&#51312;&#54868; &#51077;&#47141; UI &#47196; &#51089;&#49457;&#54620; &#51060;&#47141;&#49436;&#47484; &#54620; &#48264;&#50640; &#51200;&#51109;&#54620;&#45796;."""</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t38" href="#t38">38</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t39" href="#t39">39</a></span><span class="t">  <span class="nam">title</span> <span class="op">=</span> <span class="nam">serializers</span><span class="op">.</span><span class="nam">CharField</span><span class="op">(</span><span class="nam">max_length</span><span class="op">=</span><span class="num">255</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t40" href="#t40">40</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t41" href="#t41">41</a></span><span class="t">  <span class="com"># 1:1 reverse</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t42" href="#t42">42</a></span><span class="t">  <span class="nam">basic_info</span> <span class="op">=</span> <span class="nam">ResumeBasicInfoNestedSerializer</span><span class="op">(</span><span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t43" href="#t43">43</a></span><span class="t">  <span class="nam">summary</span> <span class="op">=</span> <span class="nam">ResumeSummaryNestedSerializer</span><span class="op">(</span><span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t44" href="#t44">44</a></span><span class="t">  <span class="nam">career_meta</span> <span class="op">=</span> <span class="nam">ResumeCareerMetaNestedSerializer</span><span class="op">(</span><span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t45" href="#t45">45</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t46" href="#t46">46</a></span><span class="t">  <span class="com"># 1:N reverse</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t47" href="#t47">47</a></span><span class="t">  <span class="nam">experiences</span> <span class="op">=</span> <span class="nam">ResumeExperienceNestedSerializer</span><span class="op">(</span><span class="nam">many</span><span class="op">=</span><span class="key">True</span><span class="op">,</span> <span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t48" href="#t48">48</a></span><span class="t">  <span class="nam">educations</span> <span class="op">=</span> <span class="nam">ResumeEducationNestedSerializer</span><span class="op">(</span><span class="nam">many</span><span class="op">=</span><span class="key">True</span><span class="op">,</span> <span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t49" href="#t49">49</a></span><span class="t">  <span class="nam">certifications</span> <span class="op">=</span> <span class="nam">ResumeCertificationNestedSerializer</span><span class="op">(</span><span class="nam">many</span><span class="op">=</span><span class="key">True</span><span class="op">,</span> <span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t50" href="#t50">50</a></span><span class="t">  <span class="nam">awards</span> <span class="op">=</span> <span class="nam">ResumeAwardNestedSerializer</span><span class="op">(</span><span class="nam">many</span><span class="op">=</span><span class="key">True</span><span class="op">,</span> <span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t51" href="#t51">51</a></span><span class="t">  <span class="nam">projects</span> <span class="op">=</span> <span class="nam">ResumeProjectNestedSerializer</span><span class="op">(</span><span class="nam">many</span><span class="op">=</span><span class="key">True</span><span class="op">,</span> <span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t52" href="#t52">52</a></span><span class="t">  <span class="nam">languages_spoken</span> <span class="op">=</span> <span class="nam">ResumeLanguageSpokenNestedSerializer</span><span class="op">(</span><span class="nam">many</span><span class="op">=</span><span class="key">True</span><span class="op">,</span> <span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t53" href="#t53">53</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t54" href="#t54">54</a></span><span class="t">  <span class="com"># N:M (canonical &#52280;&#51312; &#8594; service &#54980;&#52376;&#47532;)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t55" href="#t55">55</a></span><span class="t">  <span class="nam">skills</span> <span class="op">=</span> <span class="nam">ResumeSkillsGroupSerializer</span><span class="op">(</span><span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">,</span> <span class="nam">write_only</span><span class="op">=</span><span class="key">True</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t56" href="#t56">56</a></span><span class="t">  <span class="nam">industry_domains</span> <span class="op">=</span> <span class="nam">serializers</span><span class="op">.</span><span class="nam">ListField</span><span class="op">(</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t57" href="#t57">57</a></span><span class="t">    <span class="nam">child</span><span class="op">=</span><span class="nam">serializers</span><span class="op">.</span><span class="nam">CharField</span><span class="op">(</span><span class="nam">allow_blank</span><span class="op">=</span><span class="key">True</span><span class="op">)</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t58" href="#t58">58</a></span><span class="t">    <span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t59" href="#t59">59</a></span><span class="t">    <span class="nam">write_only</span><span class="op">=</span><span class="key">True</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t60" href="#t60">60</a></span><span class="t">  <span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t61" href="#t61">61</a></span><span class="t">  <span class="nam">keywords</span> <span class="op">=</span> <span class="nam">serializers</span><span class="op">.</span><span class="nam">ListField</span><span class="op">(</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t62" href="#t62">62</a></span><span class="t">    <span class="nam">child</span><span class="op">=</span><span class="nam">serializers</span><span class="op">.</span><span class="nam">CharField</span><span class="op">(</span><span class="nam">allow_blank</span><span class="op">=</span><span class="key">True</span><span class="op">)</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t63" href="#t63">63</a></span><span class="t">    <span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t64" href="#t64">64</a></span><span class="t">    <span class="nam">write_only</span><span class="op">=</span><span class="key">True</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t65" href="#t65">65</a></span><span class="t">  <span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t66" href="#t66">66</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t67" href="#t67">67</a></span><span class="t">  <span class="com"># FK &#52280;&#51312; &#8212; &#49373;&#49457; &#49884; `_id` suffix, &#51025;&#45813;&#50640;&#45716; &#50630;&#45716; &#53412; (ResumeSerializer.resume_job_category)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t68" href="#t68">68</a></span><span class="t">  <span class="nam">resume_job_category_id</span> <span class="op">=</span> <span class="nam">serializers</span><span class="op">.</span><span class="nam">PrimaryKeyRelatedField</span><span class="op">(</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t69" href="#t69">69</a></span><span class="t">    <span class="nam">source</span><span class="op">=</span><span class="str">"resume_job_category"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t70" href="#t70">70</a></span><span class="t">    <span class="nam">queryset</span><span class="op">=</span><span class="nam">ResumeJobCategory</span><span class="op">.</span><span class="nam">objects</span><span class="op">.</span><span class="nam">all</span><span class="op">(</span><span class="op">)</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t71" href="#t71">71</a></span><span class="t">    <span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t72" href="#t72">72</a></span><span class="t">    <span class="nam">allow_null</span><span class="op">=</span><span class="key">True</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t73" href="#t73">73</a></span><span class="t">    <span class="nam">write_only</span><span class="op">=</span><span class="key">True</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t74" href="#t74">74</a></span><span class="t">  <span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t75" href="#t75">75</a></span><span class="t">  <span class="com"># lookup-or-create: &#51060;&#47492; &#47928;&#51088;&#50676;&#51012; &#48155;&#50500; canonical &#54665;&#51012; upsert &#54620;&#45796;.</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t76" href="#t76">76</a></span><span class="t">  <span class="com"># FK `_id` &#44508;&#52825;&#51032; &#50696;&#50808; &#8212; &#49324;&#50857;&#51088;&#44032; chip/autocomplete &#51004;&#47196; &#46972;&#48296;&#51012; &#49440;&#53469;&#54616;&#45716; flow &#51204;&#50857;.</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t77" href="#t77">77</a></span><span class="t">  <span class="nam">resume_job_category_name</span> <span class="op">=</span> <span class="nam">serializers</span><span class="op">.</span><span class="nam">CharField</span><span class="op">(</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t78" href="#t78">78</a></span><span class="t">    <span class="nam">required</span><span class="op">=</span><span class="key">False</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t79" href="#t79">79</a></span><span class="t">    <span class="nam">allow_blank</span><span class="op">=</span><span class="key">True</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t80" href="#t80">80</a></span><span class="t">    <span class="nam">write_only</span><span class="op">=</span><span class="key">True</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t81" href="#t81">81</a></span><span class="t">  <span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t82" href="#t82">82</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t83" href="#t83">83</a></span><span class="t">  <span class="key">class</span> <span class="nam">Meta</span><span class="op">:</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t84" href="#t84">84</a></span><span class="t">    <span class="nam">model</span> <span class="op">=</span> <span class="nam">Resume</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t85" href="#t85">85</a></span><span class="t">    <span class="nam">fields</span> <span class="op">=</span> <span class="op">[</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t86" href="#t86">86</a></span><span class="t">      <span class="str">"title"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t87" href="#t87">87</a></span><span class="t">      <span class="str">"basic_info"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t88" href="#t88">88</a></span><span class="t">      <span class="str">"summary"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t89" href="#t89">89</a></span><span class="t">      <span class="str">"career_meta"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t90" href="#t90">90</a></span><span class="t">      <span class="str">"experiences"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t91" href="#t91">91</a></span><span class="t">      <span class="str">"educations"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t92" href="#t92">92</a></span><span class="t">      <span class="str">"certifications"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t93" href="#t93">93</a></span><span class="t">      <span class="str">"awards"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t94" href="#t94">94</a></span><span class="t">      <span class="str">"projects"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t95" href="#t95">95</a></span><span class="t">      <span class="str">"languages_spoken"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t96" href="#t96">96</a></span><span class="t">      <span class="str">"skills"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t97" href="#t97">97</a></span><span class="t">      <span class="str">"industry_domains"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t98" href="#t98">98</a></span><span class="t">      <span class="str">"keywords"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t99" href="#t99">99</a></span><span class="t">      <span class="str">"resume_job_category_id"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t100" href="#t100">100</a></span><span class="t">      <span class="str">"resume_job_category_name"</span><span class="op">,</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run run2"><span class="n"><a id="t101" href="#t101">101</a></span><span class="t">    <span class="op">]</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t102" href="#t102">102</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t103" href="#t103">103</a></span><span class="t">  <span class="key">def</span> <span class="nam">create</span><span class="op">(</span><span class="nam">self</span><span class="op">,</span> <span class="nam">validated_data</span><span class="op">)</span><span class="op">:</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t104" href="#t104">104</a></span><span class="t">    <span class="com"># 1) canonical N:M &#51008; nested &#44032; &#50500;&#45768;&#46972; &#48324;&#46020; &#49436;&#48708;&#49828;&#47196; &#52376;&#47532;&#54616;&#44592; &#50948;&#54644; pop</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t105" href="#t105">105</a></span><span class="t">    <span class="nam">skills</span> <span class="op">=</span> <span class="nam">validated_data</span><span class="op">.</span><span class="nam">pop</span><span class="op">(</span><span class="str">"skills"</span><span class="op">,</span> <span class="key">None</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t106" href="#t106">106</a></span><span class="t">    <span class="nam">industry_domains</span> <span class="op">=</span> <span class="nam">validated_data</span><span class="op">.</span><span class="nam">pop</span><span class="op">(</span><span class="str">"industry_domains"</span><span class="op">,</span> <span class="key">None</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t107" href="#t107">107</a></span><span class="t">    <span class="nam">keywords</span> <span class="op">=</span> <span class="nam">validated_data</span><span class="op">.</span><span class="nam">pop</span><span class="op">(</span><span class="str">"keywords"</span><span class="op">,</span> <span class="key">None</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t108" href="#t108">108</a></span><span class="t">    <span class="nam">job_category_name</span> <span class="op">=</span> <span class="nam">validated_data</span><span class="op">.</span><span class="nam">pop</span><span class="op">(</span><span class="str">"resume_job_category_name"</span><span class="op">,</span> <span class="str">""</span><span class="op">)</span> <span class="key">or</span> <span class="str">""</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t109" href="#t109">109</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t110" href="#t110">110</a></span><span class="t">    <span class="com"># 2) structured &#51204;&#50857; &#44592;&#48376; &#49345;&#53468; &#49464;&#54021;</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t111" href="#t111">111</a></span><span class="t">    <span class="nam">validated_data</span><span class="op">[</span><span class="str">"type"</span><span class="op">]</span> <span class="op">=</span> <span class="nam">ResumeType</span><span class="op">.</span><span class="nam">STRUCTURED</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t112" href="#t112">112</a></span><span class="t">    <span class="nam">validated_data</span><span class="op">[</span><span class="str">"source_mode"</span><span class="op">]</span> <span class="op">=</span> <span class="nam">ResumeSourceMode</span><span class="op">.</span><span class="nam">STRUCTURED</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t113" href="#t113">113</a></span><span class="t">    <span class="nam">validated_data</span><span class="op">[</span><span class="str">"analysis_status"</span><span class="op">]</span> <span class="op">=</span> <span class="nam">AnalysisStatus</span><span class="op">.</span><span class="nam">COMPLETED</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t114" href="#t114">114</a></span><span class="t">    <span class="nam">validated_data</span><span class="op">[</span><span class="str">"analysis_step"</span><span class="op">]</span> <span class="op">=</span> <span class="nam">AnalysisStep</span><span class="op">.</span><span class="nam">DONE</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t115" href="#t115">115</a></span><span class="t">    <span class="nam">validated_data</span><span class="op">[</span><span class="str">"is_parsed"</span><span class="op">]</span> <span class="op">=</span> <span class="key">True</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t116" href="#t116">116</a></span><span class="t">    <span class="nam">validated_data</span><span class="op">[</span><span class="str">"analyzed_at"</span><span class="op">]</span> <span class="op">=</span> <span class="nam">timezone</span><span class="op">.</span><span class="nam">now</span><span class="op">(</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t117" href="#t117">117</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t118" href="#t118">118</a></span><span class="t">    <span class="com"># 3) drf-writable-nested &#51032; create() &#44032; nested &#51088;&#49885; &#51200;&#51109;&#44620;&#51648; &#47784;&#46160; &#52376;&#47532;</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t119" href="#t119">119</a></span><span class="t">    <span class="nam">resume</span> <span class="op">=</span> <span class="nam">super</span><span class="op">(</span><span class="op">)</span><span class="op">.</span><span class="nam">create</span><span class="op">(</span><span class="nam">validated_data</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t120" href="#t120">120</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t121" href="#t121">121</a></span><span class="t">    <span class="com"># 4) canonical &#52280;&#51312; &#53580;&#51060;&#48660; &#44221;&#50976; N:M &#51008; &#44592;&#51316; replace &#49436;&#48708;&#49828;&#47196; &#50948;&#51076;</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t122" href="#t122">122</a></span><span class="t">    <span class="key">if</span> <span class="nam">skills</span><span class="op">:</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t123" href="#t123">123</a></span><span class="t">      <span class="nam">ReplaceResumeSkillsService</span><span class="op">(</span><span class="nam">resume</span><span class="op">=</span><span class="nam">resume</span><span class="op">,</span> <span class="nam">skills</span><span class="op">=</span><span class="nam">skills</span><span class="op">)</span><span class="op">.</span><span class="nam">perform</span><span class="op">(</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t124" href="#t124">124</a></span><span class="t">    <span class="key">if</span> <span class="nam">industry_domains</span><span class="op">:</span>&nbsp;</span><span class="r"></span></p>
+    <p class="mis show_mis"><span class="n"><a id="t125" href="#t125">125</a></span><span class="t">      <span class="nam">ReplaceResumeIndustryDomainsService</span><span class="op">(</span><span class="nam">resume</span><span class="op">=</span><span class="nam">resume</span><span class="op">,</span> <span class="nam">industry_domains</span><span class="op">=</span><span class="nam">industry_domains</span><span class="op">)</span><span class="op">.</span><span class="nam">perform</span><span class="op">(</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t126" href="#t126">126</a></span><span class="t">    <span class="key">if</span> <span class="nam">keywords</span><span class="op">:</span>&nbsp;</span><span class="r"></span></p>
+    <p class="mis show_mis"><span class="n"><a id="t127" href="#t127">127</a></span><span class="t">      <span class="nam">ReplaceResumeKeywordsService</span><span class="op">(</span><span class="nam">resume</span><span class="op">=</span><span class="nam">resume</span><span class="op">,</span> <span class="nam">keywords</span><span class="op">=</span><span class="nam">keywords</span><span class="op">)</span><span class="op">.</span><span class="nam">perform</span><span class="op">(</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t128" href="#t128">128</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t129" href="#t129">129</a></span><span class="t">    <span class="com"># 5) &#51060;&#47492; &#44592;&#48152; job category upsert (chip/autocomplete &#51004;&#47196; &#49440;&#53469;&#46108; &#46972;&#48296;)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t130" href="#t130">130</a></span><span class="t">    <span class="com">#    _id &#47196; &#51649;&#51217; &#48537;&#51060;&#51648; &#47803;&#54620; &#44221;&#50864;&#50640;&#47564; name lookup-or-create &#47484; &#53468;&#50868;&#45796;.</span>&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t131" href="#t131">131</a></span><span class="t">    <span class="key">if</span> <span class="nam">job_category_name</span> <span class="key">and</span> <span class="key">not</span> <span class="nam">resume</span><span class="op">.</span><span class="nam">resume_job_category_id</span><span class="op">:</span>&nbsp;</span><span class="r"></span></p>
+    <p class="mis show_mis"><span class="n"><a id="t132" href="#t132">132</a></span><span class="t">      <span class="nam">UpdateResumeJobCategoryService</span><span class="op">(</span><span class="nam">resume</span><span class="op">=</span><span class="nam">resume</span><span class="op">,</span> <span class="nam">name</span><span class="op">=</span><span class="nam">job_category_name</span><span class="op">)</span><span class="op">.</span><span class="nam">perform</span><span class="op">(</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="mis show_mis"><span class="n"><a id="t133" href="#t133">133</a></span><span class="t">      <span class="nam">resume</span><span class="op">.</span><span class="nam">refresh_from_db</span><span class="op">(</span><span class="op">)</span>&nbsp;</span><span class="r"></span></p>
+    <p class="pln"><span class="n"><a id="t134" href="#t134">134</a></span><span class="t">&nbsp;</span><span class="r"></span></p>
+    <p class="run"><span class="n"><a id="t135" href="#t135">135</a></span><span class="t">    <span class="key">return</span> <span class="nam">resume</span>&nbsp;</span><span class="r"></span></p>
+</main>
+<footer>
+    <div class="content">
+        <p>
+            <a class="nav" href="z_b1c00459c4164220_resume_stats_serializer_py.html">&#xab; prev</a> &nbsp; &nbsp;
+            <a class="nav" href="index.html">&Hat; index</a> &nbsp; &nbsp;
+            <a class="nav" href="z_b1c00459c4164220_resume_summary_nested_serializer_py.html">&#xbb; next</a>
+            &nbsp; &nbsp; &nbsp;
+            <a class="nav" href="https://coverage.readthedocs.io/en/7.13.5">coverage.py v7.13.5</a>,
+            created at 2026-05-19 04:46 +0000
+        </p>
+    </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/tasks/send_error_alert_task.py
+# hypothesis_version: 6.151.9
+
+['DEVELOPER', 'SLACK_CHANNEL_ERROR', 'Traceback', 'UnknownError', 'error_message', 'error_type', 'method', 'path', 'traceback']

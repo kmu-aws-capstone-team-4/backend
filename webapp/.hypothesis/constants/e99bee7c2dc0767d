@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/resumes/views/resume_text_content_template_detail_view.py
+# hypothesis_version: 6.151.9
+
+['job', 'job__category', '이력서 텍스트 템플릿 상세', '이력서 템플릿', '템플릿을 찾을 수 없습니다.']

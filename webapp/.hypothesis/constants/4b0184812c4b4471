@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/streaks/models/daily_interview_reward_policy.py
+# hypothesis_version: 6.151.9
+
+['interview_order', '인터뷰 순서 (1~5)', '일일 인터뷰 보상 정책', '일일 인터뷰 보상 정책 목록', '지급 티켓 수', '활성 여부']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/migrations/0004_interviewbehavioranalysis.py
+# hypothesis_version: 6.151.9
+
+['Completed', 'Failed', 'Pending', 'Processing', 'abstract', 'behavior_analyses', 'completed', 'created_at', 'db_table', 'expression_data', 'failed', 'interview_recording', 'interview_session', 'interview_turn', 'interviews', 'objects', 'pending', 'processing', 'speech_data', 'status', 'updated_at', 'user', 'uuid', 'verbose_name', 'verbose_name_plural', '면접 녹화', '면접 세션', '면접 턴', '면접 행동 분석', '면접 행동 분석 목록', '사용자', '상태', '음성 분석 데이터', '표정 분석 데이터']

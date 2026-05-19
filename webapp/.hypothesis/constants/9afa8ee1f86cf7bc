@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/notifications/admin/notification_admin.py
+# hypothesis_version: 6.151.9
+
+[500, '-created_at', 'POST', 'category', 'created_at', 'email', 'form', 'id', 'is_read', 'message', 'notifiable_id', 'notifiable_type', 'opts', 'rows', 'send-test/', 'title', 'updated_at', 'user', 'user__email', '메시지', '수신 사용자', '카테고리', '테스트 알림 발송']

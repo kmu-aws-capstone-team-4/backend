@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/streaks/migrations/0003_streakstatistics_total_days.py
+# hypothesis_version: 6.151.9
+
+['streaks', 'streakstatistics', 'total_days', '총 참여일']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/services/evaluate_achievements_service.py
+# hypothesis_version: 6.151.9
+
+[4096, 'achievement_code', 'captured_at', 'condition_type', 'context', 'errors', 'evaluation_result', 'event', 'evidence', 'failure_reason', 'is_satisfied', 'reason', 'trigger_key', 'trigger_type', 'truncated', 'user_id', 'utf-8', 'version']

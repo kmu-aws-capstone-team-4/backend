@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/admin/user_achievement_admin.py
+# hypothesis_version: 6.151.9
+
+[',', '-achieved_at', 'achieved_at', 'achievement', 'achievement__code', 'achievement__name', 'created_at', 'reward_claimed_at', 'updated_at', 'user', 'user__email', '선택된 사용자 업적 재평가 (폼)']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/subscriptions/serializers/subscription_serializer.py
+# hypothesis_version: 6.151.9
+
+['cancelled_at', 'created_at', 'expires_at', 'id', 'is_cancelled', 'plan_type', 'plan_type_display', 'started_at', 'status', 'updated_at']

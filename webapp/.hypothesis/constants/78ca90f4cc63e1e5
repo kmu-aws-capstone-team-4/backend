@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/resumes/serializers/resume_experience_response_serializer.py
+# hypothesis_version: 6.151.9
+
+['company', 'created_at', 'display_order', 'highlights', 'period', 'responsibilities', 'role', 'updated_at', 'uuid']

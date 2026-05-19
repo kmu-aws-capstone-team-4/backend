@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_basic_info.py
+# hypothesis_version: 6.151.9
+
+[100, 200, 'basic_info', 'resume_basic_infos', 'resumes.Resume', '이력서 기본 정보']

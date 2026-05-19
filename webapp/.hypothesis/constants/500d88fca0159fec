@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/migrations/0001_initial.py
+# hypothesis_version: 6.151.9
+
+[100, 255, 2048, '-created_at', '-updated_at', 'ID', 'JobDescription', 'abstract', 'collection_status', 'company', 'created_at', 'db_table', 'done', 'duties', 'education', 'error', 'error_message', 'experience', 'get_latest_by', 'id', 'in_progress', 'indexes', 'job_descriptions', 'location', 'objects', 'ordering', 'pending', 'platform', 'preferred', 'requirements', 'salary', 'scraped_at', 'title', 'updated_at', 'url', 'verbose_name', 'verbose_name_plural', 'work_type', '경력 조건', '고용형태', '근무지역', '급여 정보', '담당업무', '수집 상태', '수집 실패', '수집 완료', '수집 완료 일시', '수집 중', '수집 진행 예정', '에러 메시지', '우대사항', '정규직, 계약직, 인턴 등', '지원자격 / 필수조건', '채용공고', '채용공고 URL', '채용공고 목록', '채용공고 제목', '플랫폼명', '학력 조건', '회사명']

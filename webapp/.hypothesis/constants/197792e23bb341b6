@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/nplusone_handler/sql.py
+# hypothesis_version: 6.151.9
+
+["'[^']*'", '(?<!^)(?=[A-Z])', '?', '\\b\\d+\\b', '\\s+', '_', 's', 'sql']

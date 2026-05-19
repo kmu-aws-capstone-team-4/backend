@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/update_resume_basic_info_service.py
+# hypothesis_version: 6.151.9
+
+['email', 'location', 'name', 'phone', 'resume']

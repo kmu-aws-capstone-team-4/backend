@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/services/update_user_job_description_service.py
+# hypothesis_version: 6.151.9
+
+['application_status', 'job_description', 'title', 'updated_at', 'uuid', '채용공고를 찾을 수 없습니다.']

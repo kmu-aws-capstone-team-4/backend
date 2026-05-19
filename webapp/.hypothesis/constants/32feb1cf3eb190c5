@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/migrations/0001_initial.py
+# hypothesis_version: 6.151.9
+
+[100, '-achieved_at', '-created_at', '-updated_at', 'Achievement', 'ID', 'UserAchievement', 'abstract', 'achieved_at', 'achievement', 'activity', 'category', 'code', 'condition_payload', 'condition_type', 'constraints', 'created_at', 'description', 'ends_at', 'get_latest_by', 'id', 'indexes', 'interview', 'is_active', 'name', 'objects', 'ordering', 'other', 'profile', 'reward_claimed_at', 'reward_payload', 'rule_group', 'starts_at', 'streak', 'updated_at', 'user', 'user_achievements', 'verbose_name', 'verbose_name_plural', '규칙 그룹', '기타', '달성 가능 시작 시각', '달성 가능 종료 시각', '달성 근거 스냅샷', '달성 시각', '도전과제', '도전과제 목록', '도전과제 설명', '도전과제 이름', '도전과제 조건 DSL', '도전과제 카테고리', '도전과제 코드', '보상 수령 스냅샷', '보상 수령 시각', '보상 정보', '사용자', '사용자 도전과제 달성', '사용자 도전과제 달성 목록', '스트릭', '인터뷰', '조건 스키마 버전', '조건 타입', '프로필', '활동', '활성 여부']

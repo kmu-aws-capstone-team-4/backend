@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/migrations/0002_userjobdescription.py
+# hypothesis_version: 6.151.9
+
+['0001_initial', 'UserJobDescription', 'abstract', 'created_at', 'db_table', 'job_description', 'job_descriptions', 'objects', 'updated_at', 'user', 'uuid', 'verbose_name', 'verbose_name_plural', '사용자', '사용자 채용공고', '사용자 채용공고 목록', '채용공고']

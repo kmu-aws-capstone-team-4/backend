@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/interviews/views/interview_session_viewset.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'analysis_report', 'create', 'job_description', 'list', 'pk', 'resume', 'resume_uuid', 'turn_number', 'turns', '면접', '면접 세션 목록 조회', '면접 세션 생성', '면접 세션 조회']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/factories/user_factory.py
+# hypothesis_version: 6.151.9
+
+['ValidPass123!', 'email_confirmed_at', 'is_email_confirmed', 'is_profile_completed', 'password', 'profile_completed_at']

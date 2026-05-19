@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/exceptions/handler.py
+# hypothesis_version: 6.151.9
+
+[400, 500, '__all__', 'detail', 'error_code', 'message', 'message_dict', 'non_field_errors', 'request', 'unique', '데이터 무결성 오류가 발생했습니다.', '오류가 발생했습니다.', '입력값이 올바르지 않습니다.', '중복된 데이터가 이미 존재합니다.']

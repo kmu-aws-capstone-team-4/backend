@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/tickets/services/refund_tickets_service.py
+# hypothesis_version: 6.151.9
+
+['환불할 티켓 수량은 양수여야 합니다.']

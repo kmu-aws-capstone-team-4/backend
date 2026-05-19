@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/profiles/migrations/0001_initial.py
+# hypothesis_version: 6.151.9
+
+[100, 'ID', 'Job', 'Job Categories', 'Job Category', 'JobCategory', 'Jobs', 'Profile', 'Profiles', 'all_objects', 'category', 'constraints', 'created_at', 'db_table', 'deleted_at', 'deleted_at__isnull', 'emoji', 'id', 'job', 'job_categories', 'job_category', 'jobs', 'name', 'objects', 'opened_at', 'ordering', 'profile', 'profiles', 'profiles.job', 'profiles.jobcategory', 'updated_at', 'user', 'verbose_name', 'verbose_name_plural', '사용자에게 공개된 시간', '오픈 일시']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_certification.py
+# hypothesis_version: 6.151.9
+
+[200, 'certifications', 'created_at', 'display_order', 'resume', 'resumes.Resume', '이력서 자격증']

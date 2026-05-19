@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_file_content.py
+# hypothesis_version: 6.151.9
+
+[100, 255, 500, '-created_at', 'Resume File Content', 'Resume File Contents', 'S3 파일 삭제 실패: %s', 'file_content', 'resume_file_contents', 'resumes.Resume', 'user_id']

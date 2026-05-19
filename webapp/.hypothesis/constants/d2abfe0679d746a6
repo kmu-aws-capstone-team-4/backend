@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/migrations/0005_add_speech_segments_to_turn.py
+# hypothesis_version: 6.151.9
+
+['Abandoned', 'Completed', 'Failed', 'Initiated', 'Processing', 'Ready', 'Uploading', 'abandoned', 'completed', 'failed', 'initiated', 'interviewrecording', 'interviews', 'interviewturn', 'processing', 'ready', 'speech_segments', 'status', 'uploading', '발화 세그먼트', '상태']

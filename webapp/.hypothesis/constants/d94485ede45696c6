@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/llm_trackers/migrations/0001_initial.py
+# hypothesis_version: 6.151.9
+
+[100, '-created_at', '-updated_at', '0', 'ID', 'LLM 모델명', 'LLM 연산 종류', 'TokenUsage', 'abstract', 'common_token_usages', 'completion', 'contenttypes', 'context', 'cost_usd', 'created_at', 'db_table', 'embedding', 'get_latest_by', 'id', 'indexes', 'input_tokens', 'interview_analysis', 'interview_followup', 'interview_question', 'model_name', 'objects', 'operation', 'ordering', 'other', 'output_tokens', 'resume_analyze', 'resume_embed', 'resume_search', 'token_usable_id', 'token_usable_type', 'total_tokens', 'updated_at', 'verbose_name', 'verbose_name_plural', '관련 객체 PK', '관련 모델 타입', '기타', '꼬리질문 생성', '면접 분석 리포트 생성', '면접 초기 질문 생성', '비용 (USD)', '사용 컨텍스트', '이력서 LLM 분석', '이력서 임베딩', '이력서 임베딩 검색', '임베딩 생성', '입력 토큰', '전체 토큰', '출력 토큰', '토큰 사용 내역', '토큰 사용 내역 목록']

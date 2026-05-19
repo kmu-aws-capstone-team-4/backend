@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/tickets/admin/user_ticket_admin.py
+# hypothesis_version: 6.151.9
+
+[', ', '-purchased_count', 'action_name', 'amount', 'confirmed', 'created_at', 'daily_count', 'display_total', 'expire_tickets', 'form', 'grant_tickets', 'pk', 'purchased_count', 'reason', 'refund_tickets', 'selected_pks', 'submit_label', 'target_users', 'title', 'updated_at', 'user', 'user__email', '사유', '선택한 사용자에게 티켓 지급', '선택한 사용자에게 티켓 환불', '선택한 사용자의 티켓 만료', '수량', '총 티켓', '티켓 만료', '티켓 지급', '티켓 환불']

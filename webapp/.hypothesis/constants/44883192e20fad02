@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/user_job_descriptions/views/user_job_description_api_view.py
+# hypothesis_version: 6.151.9
+
+[0.1, 200, 201, '-created_at', 'application_status', 'job_description', 'search', 'title', 'url', '사용자 채용공고', '사용자 채용공고 등록', '사용자 채용공고 목록 조회', '회사명 또는 내 식별 제목으로 검색']

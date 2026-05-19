@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/tasks/cleanup_stale_recordings_task.py
+# hypothesis_version: 6.151.9
+
+['*/30', 'abandoned_count']

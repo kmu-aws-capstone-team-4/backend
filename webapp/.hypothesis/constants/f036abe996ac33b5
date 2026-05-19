@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/slack/messages/error_message.py
+# hypothesis_version: 6.151.9
+
+['*Traceback*', '경로', '메서드', '메시지', '에러 유형', '🚨 서버 에러 발생']

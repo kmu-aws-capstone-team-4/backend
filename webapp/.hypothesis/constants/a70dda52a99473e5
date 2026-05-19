@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/terms_documents/models/terms_document.py
+# hypothesis_version: 6.151.9
+
+[200, '-version', 'max', 'terms_type', 'version', '공개일시', '내용 (마크다운)', '버전', '약관', '약관 목록', '약관 유형', '적용일', '제목', '필수 동의 여부']

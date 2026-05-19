@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/resumes/serializers/resume_structured_create_request_serializer.py
+# hypothesis_version: 6.151.9
+
+[255, 'analysis_status', 'analysis_step', 'analyzed_at', 'awards', 'basic_info', 'career_meta', 'certifications', 'educations', 'experiences', 'industry_domains', 'is_parsed', 'keywords', 'languages_spoken', 'projects', 'resume_job_category', 'skills', 'source_mode', 'summary', 'title', 'type']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/resumes/views/resume_section_viewset_base.py
+# hypothesis_version: 6.151.9
+
+['resume_uuid', 'uuid', '이력서를 찾을 수 없습니다.']

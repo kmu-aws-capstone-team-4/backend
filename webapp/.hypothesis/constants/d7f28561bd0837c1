@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/slack/blocks/image.py
+# hypothesis_version: 6.151.9
+
+['accessory', 'alt_text', 'emoji', 'image', 'image_url', 'plain_text', 'text', 'title', 'type']

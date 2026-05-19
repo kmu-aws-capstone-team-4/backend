@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/file_resume_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'analysis_status', 'analysis_step', 'analyzed_at', 'created_at', 'deleted_at', 'fields', 'is_parsed', 'parsed_data', 'title', 'updated_at', 'user', 'user__email', 'uuid', '날짜', '분석 상태']

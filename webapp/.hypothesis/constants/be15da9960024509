@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/tickets/migrations/0001_initial.py
+# hypothesis_version: 6.151.9
+
+[200, '-created_at', '-updated_at', 'ID', 'TicketLog', 'UserTicket', 'abstract', 'action_type', 'amount', 'balance_after', 'constraints', 'created_at', 'daily_count', 'expire', 'get_latest_by', 'grant', 'id', 'indexes', 'metadata', 'objects', 'ordering', 'purchased_count', 'reason', 'refund', 'ticket', 'ticket_logs', 'unique_user_ticket', 'updated_at', 'use', 'user', 'verbose_name', 'verbose_name_plural', '구독 정책에 의해 매일 리셋되는 티켓', '구매 티켓 수', '구매/보상 등으로 획득한 영구 티켓', '만료', '메타데이터', '발급', '발급/환불은 양수, 사용/만료는 음수', '변동 수량', '변동 후 잔액', '사용', '사용자', '사용자 티켓', '사용자 티켓 목록', '사유', '액션 타입', '일일 티켓 수', '티켓 이력', '티켓 이력 목록', '환불']

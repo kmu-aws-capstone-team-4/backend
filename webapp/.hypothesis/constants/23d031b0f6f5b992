@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/enums/achievement_category.py
+# hypothesis_version: 6.151.9
+
+['activity', 'interview', 'other', 'profile', 'streak', '기타', '스트릭', '인터뷰', '프로필', '활동']

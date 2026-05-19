@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/profiles/services/avatar_upload_service.py
+# hypothesis_version: 6.151.9
+
+[1024, 'avatar', 'image/gif', 'image/jpeg', 'image/png', 'image/webp', 'profile', '파일 크기는 5MB 이하여야 합니다.']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/users/urls.py
+# hypothesis_version: 6.151.9
+
+['change-password', 'change-password/', 'me/', 'password-reset', 'password-reset/', 'resend-verify-email', 'resend-verify-email/', 'sign-in', 'sign-in/', 'sign-out', 'sign-out/', 'sign-up', 'sign-up/', 'token-refresh', 'token-verify', 'tokens/refresh/', 'tokens/verify/', 'unregister', 'unregister/', 'user-me', 'verify-email', 'verify-email/']

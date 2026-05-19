@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/models/achievement.py
+# hypothesis_version: 6.151.9
+
+[100, 'category', 'code', 'condition_payload', 'ends_at', 'is_active', 'messages', 'starts_at', '달성 가능 시작 시각', '달성 가능 종료 시각', '도전과제', '도전과제 목록', '도전과제 설명', '도전과제 이름', '도전과제 조건 DSL', '도전과제 카테고리', '도전과제 코드', '보상 정보', '조건 스키마 버전', '조건 타입', '활성 여부']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/enums/collection_status.py
+# hypothesis_version: 6.151.9
+
+['done', 'error', 'in_progress', 'pending', '수집 실패', '수집 완료', '수집 중', '수집 진행 예정']

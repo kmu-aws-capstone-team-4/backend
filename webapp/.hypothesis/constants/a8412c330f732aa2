@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/submit_answer_and_generate_followup_service.py
+# hypothesis_version: 6.151.9
+
+['OPENAI_MODEL', 'answer', 'followup_order', 'gpt-4o-mini', 'interview_session', 'interview_turn', 'question', 'sort_followup_order', 'turn_number', 'updated_at', '답변 내용이 비어있습니다.', '이미 답변이 제출된 턴입니다.', '해당 세션의 턴이 아닙니다.']

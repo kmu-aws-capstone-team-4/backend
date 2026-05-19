@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/services/verify_email_service.py
+# hypothesis_version: 6.151.9
+
+['code', 'email_confirmed_at', 'used_at', '유효하지 않은 인증 코드입니다.', '이미 인증된 이메일입니다.']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_industry_domain.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'display_order', 'industry_domain', 'resume', 'resumes.Resume', '이력서 산업 도메인 매핑']

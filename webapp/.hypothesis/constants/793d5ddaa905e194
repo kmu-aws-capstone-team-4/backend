@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/streaks/migrations/0002_alter_streakstatistics_user.py
+# hypothesis_version: 6.151.9
+
+['0001_initial', 'streak_statistic', 'streaks', 'streakstatistics', 'user', '사용자']

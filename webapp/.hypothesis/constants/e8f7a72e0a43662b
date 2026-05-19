@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_education.py
+# hypothesis_version: 6.151.9
+
+[100, 200, 'created_at', 'display_order', 'educations', 'resume', 'resume_educations', 'resumes.Resume', '이력서 학력']

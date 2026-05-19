@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/generate_initial_questions_service.py
+# hypothesis_version: 6.151.9
+
+['OPENAI_MODEL', 'followup_order', 'gpt-4o-mini', 'interview_session', 'job_description', 'resume', 'sort_followup_order', 'total_questions', 'turn_number', 'updated_at', '이미 초기 질문이 생성된 세션입니다.']

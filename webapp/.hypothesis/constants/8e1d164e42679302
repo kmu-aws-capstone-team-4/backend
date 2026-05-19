@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/streaks/views/streak_logs_view.py
+# hypothesis_version: 6.151.9
+
+['date', 'end_date', 'logs', 'start_date', '스트릭', '스트릭 로그 기간 조회']

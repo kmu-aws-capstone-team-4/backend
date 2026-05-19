@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/terms_documents/services/agree_to_terms_document_service.py
+# hypothesis_version: 6.151.9
+
+['agreed_at', 'id', 'terms_document_ids']

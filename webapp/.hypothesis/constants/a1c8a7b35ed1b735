@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_summary.py
+# hypothesis_version: 6.151.9
+
+['resume_summaries', 'resumes.Resume', 'summary', '이력서 요약']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/terms_documents/enums/terms_document_type.py
+# hypothesis_version: 6.151.9
+
+['AI 학습 데이터 활용 동의', 'ai_training_data', 'privacy_policy', 'terms_of_service', '개인정보처리방침', '이용약관']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/tech_stack.py
+# hypothesis_version: 6.151.9
+
+[100, 'TechStack | None', 'name', 'tech_stacks', '기술 스택', '기술명']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/interviews/serializers/interview_session_list_serializer.py
+# hypothesis_version: 6.151.9
+
+[' —', 'anchor_questions', 'created_at', 'id', 'question', 'report_status', 'resume_title', 'total_questions', 'turn_number', 'uuid', '삭제된 이력서', '삭제된 채용공고', '채용공고']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/get_s3_client.py
+# hypothesis_version: 6.151.9
+
+['AWS_S3_ENDPOINT_URL', 'addressing_style', 'aws_access_key_id', 'config', 'dummy', 'endpoint_url', 'path', 'region_name', 's3']

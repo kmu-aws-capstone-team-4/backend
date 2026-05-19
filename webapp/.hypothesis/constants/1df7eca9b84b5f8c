@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/channel_layer.py
+# hypothesis_version: 6.151.9
+
+['BACKEND', 'CHANNEL_LAYERS', 'CONFIG', 'default', 'hosts']

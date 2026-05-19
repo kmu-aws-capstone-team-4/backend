@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/mixins/file_resume_pipeline_mixin.py
+# hypothesis_version: 6.151.9
+
+['.', 'file_size_bytes', 'mime_type', 'original_filename', 'pdf', 'storage_path', 'updated_at']

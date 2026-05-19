@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/consumers/websocket.py
+# hypothesis_version: 6.151.9
+
+[4001, 'error', 'invalid JSON', 'payload', 'query_string', 'ticket', 'ws_connected', 'ws_disconnected', 'ws_user_connected', 'ws_user_disconnected']

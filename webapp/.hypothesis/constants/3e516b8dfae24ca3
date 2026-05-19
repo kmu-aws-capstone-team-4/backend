@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/keyword.py
+# hypothesis_version: 6.151.9
+
+[100, 'Keyword | None', 'keywords', 'text', '이력서 키워드', '키워드']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/auth.py
+# hypothesis_version: 6.151.9
+
+[587, 'AUTH_USER_MODEL', 'DEFAULT_FROM_EMAIL', 'EMAIL_BACKEND', 'EMAIL_HOST', 'EMAIL_HOST_PASSWORD', 'EMAIL_HOST_USER', 'EMAIL_PORT', 'EMAIL_USE_TLS', 'NAME', 'SIMPLE_JWT', 'noreply@mefit.chat', 'users.User']

@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/components/i18n.py
+# hypothesis_version: 6.151.9
+
+['Asia/Seoul', 'LANGUAGE_CODE', 'TIME_ZONE', 'USE_I18N', 'USE_TZ', 'ko-kr']

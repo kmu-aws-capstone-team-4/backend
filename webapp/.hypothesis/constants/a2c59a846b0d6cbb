@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/resume_project_tech_stack.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'display_order', 'resume_project', 'resumes.TechStack', 'tech_stack', '이력서 프로젝트 기술 스택 매핑']

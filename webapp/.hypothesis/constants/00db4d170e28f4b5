@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/profiles/views/avatar_view.py
+# hypothesis_version: 6.151.9
+
+[200, 'avatar', 'binary', 'format', 'multipart/form-data', 'object', 'properties', 'required', 'string', 'type', '아바타 업로드', '아바타 조회', '이미지 파일을 첨부해주세요.', '프로필']

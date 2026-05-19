@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/schemas/question_generator_input.py
+# hypothesis_version: 6.151.9
+
+['normal', '이력서 전문 텍스트', '채용공고 JSON 문자열']

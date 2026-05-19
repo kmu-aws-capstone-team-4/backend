@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/models/industry_domain.py
+# hypothesis_version: 6.151.9
+
+[100, 'industry_domains', 'name', '도메인명', '산업 도메인']

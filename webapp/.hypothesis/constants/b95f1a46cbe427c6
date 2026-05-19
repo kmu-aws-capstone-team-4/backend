@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/complete_recording_service.py
+# hypothesis_version: 6.151.9
+
+['ETag', 'PartNumber', 'Parts', 'duration_ms', 'end_timestamp', 'etag', 'partNumber', 'part_number', 'parts', 'recording', 'status', '본인의 녹화만 완료할 수 있습니다.', '완료할 수 없는 녹화 상태입니다.']

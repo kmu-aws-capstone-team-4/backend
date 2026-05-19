@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/config/settings/test.py
+# hypothesis_version: 6.151.9
+
+['BACKEND', 'CONN_HEALTH_CHECKS', 'CONN_MAX_AGE', 'CRITICAL', 'cache+memory://', 'class', 'default', 'demo-api-key', 'handlers', 'level', 'logging.NullHandler', 'media', 'media/', 'memory://', 'null', 'root', 'static/', 'staticfiles', 'test', 'version']

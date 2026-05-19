@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/permissions/is_profile_completed.py
+# hypothesis_version: 6.151.9
+
+['이메일 인증이 필요합니다.', '프로필 작성이 필요합니다.']

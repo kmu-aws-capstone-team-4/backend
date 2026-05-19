@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/enums/chunk_type.py
+# hypothesis_version: 6.151.9
+
+['award', 'basic_info', 'certification', 'education', 'experience', 'industry_domain', 'keyword', 'language_spoken', 'project', 'skill', 'summary', 'text', '경력', '구사 언어', '기본 정보', '산업 도메인', '수상 이력', '스킬', '요약', '자격증', '키워드', '텍스트 청크', '프로젝트', '학력']

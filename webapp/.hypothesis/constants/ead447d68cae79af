@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/streaks/services/streak_expirer.py
+# hypothesis_version: 6.151.9
+
+['current_streak', 'expired_count', 'expired_user_ids', 'updated_at']

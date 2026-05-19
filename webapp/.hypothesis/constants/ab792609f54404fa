@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/resume_job_category_admin.py
+# hypothesis_version: 6.151.9
+
+['created_at', 'deleted_at', 'description', 'emoji', 'name', 'updated_at', 'uuid']

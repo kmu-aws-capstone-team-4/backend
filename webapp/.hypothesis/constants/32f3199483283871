@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/profiles/migrations/0002_profile_avatar.py
+# hypothesis_version: 6.151.9
+
+['0001_initial', 'avatar', 'profile', 'profiles']

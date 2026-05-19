@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/admin/interview_recording_admin.py
+# hypothesis_version: 6.151.9
+
+['-created_at', 'S3 저장 정보', 'audio_key', 'created_at', 'duration_ms', 'end_timestamp', 'fields', 'frame_prefix', 'interview_session', 'interview_turn', 'media_type', 'pk', 's3_bucket', 's3_key', 'scaled_audio_key', 'scaled_video_key', 'start_timestamp', 'status', 'updated_at', 'upload_id', 'user', 'user__email', '날짜', '녹화 정보', '후처리 결과']

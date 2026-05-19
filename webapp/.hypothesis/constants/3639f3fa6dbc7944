@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/models/interview_behavior_analysis.py
+# hypothesis_version: 6.151.9
+
+['behavior_analyses', '면접 녹화', '면접 세션', '면접 턴', '면접 행동 분석', '면접 행동 분석 목록', '사용자', '상태', '음성 분석 데이터', '표정 분석 데이터']

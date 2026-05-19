@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/profiles/admin/job_category_admin.py
+# hypothesis_version: 6.151.9
+
+['bulk_open_categories', 'close-category', 'close_category', 'created_at', 'deleted_at', 'emoji', 'fields', 'is_opened', 'name', 'open-category', 'open_category', 'opened_at', 'seed-data', 'seed_default_data', 'updated_at', '기본 데이터 생성', '날짜', '선택한 직군 닫기', '선택한 직군 오픈', '오픈 여부', '직군 닫기', '직군 오픈']

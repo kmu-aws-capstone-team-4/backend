@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/users/models/email_verification_code.py
+# hypothesis_version: 6.151.9
+
+['code', 'used_at', 'user', 'users.User']

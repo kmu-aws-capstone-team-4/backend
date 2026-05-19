@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/services/content_service.py
+# hypothesis_version: 6.151.9
+
+['company', 'duties', 'education', 'experience', 'file', 'location', 'platform', 'preferred', 'requirements', 'salary', 'text', 'title', 'work_type']

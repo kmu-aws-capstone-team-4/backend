@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/admin/resume_text_content_template_admin.py
+# hypothesis_version: 6.151.9
+
+['category', 'content', 'created_at', 'deleted_at', 'display_order', 'fields', 'job', 'job__category', 'job__name', 'queryset', 'title', 'updated_at', 'uuid', '기본 정보', '기본 템플릿 시드 생성', '내용', '메타']

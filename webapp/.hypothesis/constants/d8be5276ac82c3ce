@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/achievements/serializers/achievement_list_serializer.py
+# hypothesis_version: 6.151.9
+
+['achieved_at', 'can_claim_reward', 'category', 'code', 'description', 'ends_at', 'is_achieved', 'is_active', 'name', 'reward_claimed_at', 'starts_at']

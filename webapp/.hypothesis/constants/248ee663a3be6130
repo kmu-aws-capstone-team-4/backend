@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/api/v1/users/views/sign_in_api_view.py
+# hypothesis_version: 6.151.9
+
+[200, 'access', 'email', 'is_email_confirmed', 'is_profile_completed', 'password', 'refresh', '로그인', '사용자']

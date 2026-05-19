@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/validators/base_validator.py
+# hypothesis_version: 6.151.9
+
+['__all__', '_validation_priority', 'message', 'message_dict']

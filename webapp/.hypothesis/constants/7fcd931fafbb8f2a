@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/interviews/enums/practice_mode.py
+# hypothesis_version: 6.151.9
+
+['practice', 'real', '실전 모드', '연습 모드']

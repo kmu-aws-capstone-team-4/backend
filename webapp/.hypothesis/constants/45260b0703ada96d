@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/job_descriptions/models/job_description.py
+# hypothesis_version: 6.151.9
+
+[100, 255, 2048, 'collection_status', 'error_message', 'job_descriptions', 'scraped_at', 'updated_at', 'utm_', '경력 조건', '고용형태', '근무지역', '급여 정보', '담당업무', '수집 상태', '수집 완료 일시', '에러 메시지', '우대사항', '정규직, 계약직, 인턴 등', '지원자격 / 필수조건', '채용공고', '채용공고 URL', '채용공고 목록', '채용공고 제목', '플랫폼명', '학력 조건', '회사명']

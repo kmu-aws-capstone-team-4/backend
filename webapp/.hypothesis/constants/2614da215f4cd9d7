@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/enums/analysis_step.py
+# hypothesis_version: 6.151.9
+
+['LLM 분석 중', 'analyzing', 'done', 'embedding', 'extracting_text', 'finalizing', 'queued', '완료', '임베딩 생성 중', '최종 처리 중', '큐 대기', '텍스트 추출 중']

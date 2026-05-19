@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/achievements/models/user_achievement.py
+# hypothesis_version: 6.151.9
+
+['-achieved_at', 'achievement', 'user', 'user_achievements', '달성 근거 스냅샷', '달성 시각', '도전과제', '보상 수령 스냅샷', '보상 수령 시각', '사용자', '사용자 도전과제 달성', '사용자 도전과제 달성 목록']

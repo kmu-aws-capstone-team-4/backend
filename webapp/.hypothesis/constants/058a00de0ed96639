@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/common/consumers/sse.py
+# hypothesis_version: 6.151.9
+
+[b'0', b'86400', b'Access-Control-Allow-Credentials', b'Access-Control-Allow-Headers', b'Access-Control-Allow-Methods', b'Access-Control-Allow-Origin', b'Access-Control-Max-Age', b'Cache-Control', b'Content-Length', b'Content-Type', b'GET, OPTIONS', b'Origin', b'Unauthorized', b'Vary', b'X-Accel-Buffering', b'authorization', b'no', b'no-cache', b'origin', b'text/event-stream', b'true', 204, 401, 'Bearer ', 'CORS_ALLOWED_ORIGINS', 'OPTIONS', 'ascii', 'headers', 'ignore', 'method', 'payload', 'sse_auth_failed', 'sse_connected', 'sse_disconnected', 'sse_user_connected', 'user_id']

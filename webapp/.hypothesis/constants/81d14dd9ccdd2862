@@ -1,0 +1,4 @@
+# file: /home/runner/work/backend/backend/webapp/resumes/services/resume_parsed_data_bundle_service.py
+# hypothesis_version: 6.151.9
+
+['analyzed_at', 'is_dirty', 'last_finalized_at', 'parsed_data', 'raw', 'resume', 'source_mode', 'text_content', 'title', 'type', 'uuid']
