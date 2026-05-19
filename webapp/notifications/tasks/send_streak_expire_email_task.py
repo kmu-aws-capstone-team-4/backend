@@ -1,5 +1,8 @@
+import structlog
 from common.tasks.base_task import BaseTask
 from config.celery import app
+
+logger = structlog.getLogger(__name__)
 
 
 class SendStreakExpireEmailTask(BaseTask):
@@ -9,7 +12,12 @@ class SendStreakExpireEmailTask(BaseTask):
 
     from ..services import SendStreakExpireEmailService
 
-    user = User.objects.get(id=user_id)
+    try:
+      user = User.objects.get(id=user_id)
+    except User.DoesNotExist:
+      logger.info("streak_expire_email_skipped_deleted_user", user_id=user_id)
+      return None
+
     return SendStreakExpireEmailService(user=user, current_streak=current_streak).perform()
 
 

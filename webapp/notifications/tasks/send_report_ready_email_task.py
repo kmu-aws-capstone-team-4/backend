@@ -1,5 +1,8 @@
+import structlog
 from common.tasks.base_task import BaseTask
 from config.celery import app
+
+logger = structlog.getLogger(__name__)
 
 
 class SendReportReadyEmailTask(BaseTask):
@@ -9,7 +12,12 @@ class SendReportReadyEmailTask(BaseTask):
 
     from ..services import SendReportReadyEmailService
 
-    user = User.objects.get(id=user_id)
+    try:
+      user = User.objects.get(id=user_id)
+    except User.DoesNotExist:
+      logger.info("report_ready_email_skipped_deleted_user", user_id=user_id)
+      return None
+
     return SendReportReadyEmailService(
       user=user,
       report_url=report_url,
